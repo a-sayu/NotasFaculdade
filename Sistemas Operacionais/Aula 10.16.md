@@ -15,3 +15,12 @@ Quando um computador é incializado, o BIOS começa a executar, primeiro confere
 Ele vê os barramentos PCI e PCIe para detectar dispositivos ligados a ele.
 
 O BIOS determina o dispositivo de inicialização tentando uma lista de dispositivos armazenados na memória CMOS, se não inicializar através de uma unidade de CD-ROM/USB ele inicializa a partir do disco, no primeiro setor da memória contém um programa que examina a tabela de partições no final do setor de inicialização para determinar qual partição está ativa, então um carregador de inicialização secundário é lido daquela partição, lendo o sistema operacional da partição ativa e o inicia.
+
+## Devolutiva da questão 11
+
+O BIOS realiza as seguintes duas tarefas:
+
+* Promove o carregamento do núbleo do sistema operacional a partir do HD ou SDD para a memória RAM
+* Carrega o endereço da primeira instrução do Escalonador de Processos no IC (Contador de Instrução) e no Registrador do escalonador de Processos (Ele recebe pois é o local em que fica fácilmente acessível e rápido para o comoputador) (É o componente mais requisitado do sistema operacional, muito frequentemente ele ganha a posse do processador) (Somente quando o endereço de uma instrução é colocado no IC o dono do endereço ganha a posse do processador)
+
+## Próxima Semana: Questão 12 Fase 4

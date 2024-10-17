@@ -177,20 +177,40 @@ $O(n!)$ complexidade exponencial, ocorre também em reposta ao uso de força bru
 
 $$\log n > n > n \log n > n^2 > n^3 > n^n > n!$$
 
+## 17/10
+
 ### Notação Assintótica Parte 1
 
 Funçoes de mesma ordem são equivalentes; Em geral algoritmos que são assintoticamente mais eficientes serão a melhor escolha para todas as entradas exceto as muito pequenas.
 
-;
+Big O, uma função f domina assintoticamente outra função g / f cresce mais rapidamente que g;
+
+Tempo de execução, T(n) = O(n alguma coisa), existem constantes tais que para valores de n >= a T(n) <= cn alguma coisa.
+
+Smepre lembrar que para testar, precisamos de duas contantes, uma para a função que cresce mais rapidamente (g) e outra para a que é dominada (f) / f $\in$ O(g)
+
+testamos constantes na fórmula de f $<=$ c.g
+
+Podemos desprezar faztores constantes, pois o comportamento assintótico da função continua o mesmo, o mesmo pode ser dito de termos de menor ordem.
 
 ### Notação Assintótica Parte 2
 
-## 17/10
+$g(n) = O(f(n))$ ou $g(n) \in O(f(n))$ para expressar que a f domina assintoticamente a g;
+
+Outras Notações além de O:
+
+$\Theta$ limite assintoticamente restrito, ou seja f está prensada entre um a mesma função.
+
+$\Omega$ similar a O que define o limite assintotico superior, $\Omega$ define o limite assintótico inferior
+
+$\omega$ se não for assintoticamente restrito, pertence a $\omega$ -> o limite para o infinito é igual a infinito
+
+$o$ se não for assintoticamente restrito, pertence a $o$ -> o limite para infinito é igual a 0
 
 ### Análise de Algoritmos Recursivos
 
+O objetivo de uma análise é prever os recursos que serão consumeidos por um algoritmo
+
+#### Algoritmos Recursivos
+
 ### Análise de Algoritmos de Ordenação
-
-## Nota
-
-;

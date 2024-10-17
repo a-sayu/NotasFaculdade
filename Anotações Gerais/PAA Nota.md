@@ -131,16 +131,86 @@ Melhor x Pior Caso: Dependem da natureza da entrada de dados.
 * Melhor Caso: A entrada que faz a entrada mais eficiente.
 * Pior Caso: A entrada que faz a execução menos eficiente.
 
-### Notação Assintótica Parte 1
+#### Crescimento das Funções
 
-### Notação Assintótica Parte 2
+Lineares : $n$
+
+Quadráticas : $n^2$
+
+O crescimento de uma função qaudrática é maior que o crescimento de uma função linear.
+
+Notação Assintótica: $n$ = $O(n^2)$, essa notação indica o limite superior, ou seja, uma função limitada ao crescimento de outra função, sendo geralmente relacionada ao pior caso de um algoritmo.
+
+O oposto também pode ser dito, podendo indicar o limite inferior, em que uma função está sempre acima de uma outra função.
+
+Notação: $n^2$ = $\Omega(n)$, em que $n$ é igual ou menor que $n^2$, sendo relacionado ao melhor caso de execução de um algoritmo.
+
+#### Classe de Comportamento Assintótico
+
+$O(1)$ ou $O(5)$ ou etc, significam que independente do tamanho de n, as instruções serão executadas um número fixo de vezes.
+
+$O(\log n)$ ocorrem em algoritmos que resolvem um problema transformando em problemas menores, podendo ser considerado menor que uma constante grande.
+
+Ex: Pesquisa Binária
+
+$O(n)$ Um pequeno trabalho é realizao sobre cada elemento de entrada, melhor situação para algoritmos que processam/produzem elementos de entrada/saida. E a cada vez que n dobra de tamamnho o tempo de execução também dobra.
+
+Ex: Pesquisa Sequencial
+
+$O(n \log n)$ ocorrre em algoritmos que resolvem problemas quebrando-os em menores, resolvendo cada um deles independentemente e depois agrupando as soluções.
+
+Ex: Merge Sort
+
+$O(n^2)$ ocorrem quando os itens de dados são processados em pares, se n dobra, o tempo de execução quadruplica. Úteis para problemas relativamente pequenos.
+
+Ex: Selection/Insertion Sort
+
+$O(n^3)$ úteis para resolver problemas relativamente pequenos, em que o tempo de execução é multiplicado por 8.
+
+Ex: Multiplicação de matrizes.
+
+$O(2^n)$ não são úteis do ponto de vista prático, ocorrem no uso de força bruta. Se n dobra, o tempo de execução se eleva ao quadrado.
+
+Ex: Caixeiro Viajante.
+
+$O(n!)$ complexidade exponencial, ocorre também em reposta ao uso de força bruta.
+
+$$\log n > n > n \log n > n^2 > n^3 > n^n > n!$$
 
 ## 17/10
 
+### Notação Assintótica Parte 1
+
+Funçoes de mesma ordem são equivalentes; Em geral algoritmos que são assintoticamente mais eficientes serão a melhor escolha para todas as entradas exceto as muito pequenas.
+
+Big O, uma função f domina assintoticamente outra função g / f cresce mais rapidamente que g;
+
+Tempo de execução, T(n) = O(n alguma coisa), existem constantes tais que para valores de n >= a T(n) <= cn alguma coisa.
+
+Smepre lembrar que para testar, precisamos de duas contantes, uma para a função que cresce mais rapidamente (g) e outra para a que é dominada (f) / f $\in$ O(g)
+
+testamos constantes na fórmula de f $<=$ c.g
+
+Podemos desprezar faztores constantes, pois o comportamento assintótico da função continua o mesmo, o mesmo pode ser dito de termos de menor ordem.
+
+### Notação Assintótica Parte 2
+
+$g(n) = O(f(n))$ ou $g(n) \in O(f(n))$ para expressar que a f domina assintoticamente a g;
+
+Outras Notações além de O:
+
+$\Theta$ limite assintoticamente restrito, ou seja f está prensada entre um a mesma função.
+
+$\Omega$ similar a O que define o limite assintotico superior, $\Omega$ define o limite assintótico inferior
+
+$\omega$ se não for assintoticamente restrito, pertence a $\omega$ -> o limite para o infinito é igual a infinito
+
+$o$ se não for assintoticamente restrito, pertence a $o$ -> o limite para infinito é igual a 0
+
 ### Análise de Algoritmos Recursivos
 
+O objetivo de uma análise é prever os recursos que serão consumeidos por um algoritmo
+
+#### Algoritmos Recursivos
+
 ### Análise de Algoritmos de Ordenação
-
-## Nota
-
-;

@@ -207,10 +207,124 @@ $\omega$ se não for assintoticamente restrito, pertence a $\omega$ -> o limite 
 
 $o$ se não for assintoticamente restrito, pertence a $o$ -> o limite para infinito é igual a 0
 
-### Análise de Algoritmos Recursivos
+## 18/10
 
-O objetivo de uma análise é prever os recursos que serão consumeidos por um algoritmo
+### Recorrências e Teorema Mestre
+
+O objetivo de uma análise é prever os recursos que serão consumidos por um algoritmo.
 
 #### Algoritmos Recursivos
 
+Quando um algoritmo contém chamadas recursivas seu tempo de execução pode ser descrito como uma recorrência.
+
+**Recorrência**: é uma equação que descreve uma função em termos de elementos anteriores da própria equação.
+
+Em chamadas recursivas muitas vezes em que nas chamadas recursivas se reduzem os tamanhos.
+
+Para cada procedimento é associado uma complexidade T(n) desconhecida, onde n mede o tamanho dos argumentos para o procedimento.
+
+#### Teorema Mestre
+
+Resolve recorrências no seguinte formato:
+
+$$T(n) = aT(\frac{n}{b}) + f(n)$$
+
+a >= 1, aT(n/b) representa o numero de chamadas recursivas a cada vez que executa a função, n/b representa em quantas partes se divide o problema (b), e o f(n) representa outros custos envolvidos na chamada recursiva.
+
+1- f(n) é O($n^{\log_b a-\epsilon}$) então $\Theta(n^{\log_b a})$
+
+Falso?
+
+2- f(n) é $\Theta(n^{\log_b a})$ então $\Theta(n^{\log_b a} \log n)$
+
+Falso?
+
+3-f(n) é $\Omega(n^{\log_b a+\epsilon})$ e af(n/b) é menor ou igual a cf(n), então a complexidade é $\Theta(f(n))$
+
+**Não se encaixa no teorema mestre?** Chega-se em somatórios que devem ser resolvidos como séries de por exemplo o matório de 1 até n.
+
 ### Análise de Algoritmos de Ordenação
+
+Algoritmos de Ordenação são amplamente usados, sendo importante conhecer os principais e as complexidade deles para saber quando utilizá-los;
+
+Bons exemplos de demonstrar técnicas computacionais;
+
+**Ordenar**: organizar uma sequencia de elementos de modo que os mesmos estabeleçam alguma relação de ordem;
+
+**Ordenar irá facilitar a busca de um elemento?** Nem sempre, pois há vários meios de implementar a ordenação, e dependendo do problema, ordenar para fazer a busca, teria-se que percorrer a lista inteira, usaria a complexidade linear;
+
+Em casos de **muitas consultas**: compensaria uma lista ordenada;
+
+Quando faremos analises, iremos focar nas partes dos algoritmos que ocorrem muito;
+
+Qual a operação dominante?;
+
+#### Baseados em Troca
+
+* BubbleSort : troca-se elementos adjacentes
+* QuickSort : ele troca elementos de diferentes partiçoes da lista com base em uma comparação ao pivô
+
+##### BubbleSort
+
+Ele percorre a lista varias vezes, comparando os elementos adjacentes, e alocando os elementos na posição que eles deveriam estar em comparação, em que os numeros iram se mover para próximos de sua posição correta;
+
+Algoritmo Quadrático : Percorreu todo o vetor todas as vezes;
+
+Algoritmo Linear : Percorreu o vetor apenas uma vez;
+
+##### QuickSort
+
+Trocar elementos distantes do vetor, com base em um pivô, o pivô estará na posição correta, que todos os elementos a esquerda serão menores e os da direita maiores que ele;
+
+Complexidade do algoritmo: $n \log n$ em que as partições são quebradas ao meio
+
+Complexidade do Pior Caso: $n^2$
+
+#### Baseados em Inserção
+
+##### Inserção Simples
+
+A inserção simples é um algoritmo que faz uma inserção como se estivesse inserindo ordenado, ele olha para os números e vai inserindo eles na posiçao correta em relaçao ao números que já se tem.
+
+Cria-se uma "lista simulada".
+
+A complexidade de inserção quando já está ordenando é linear: O(n)
+
+O Pior caso é quando está em ordem decrescente, ou seja, um somatório classico, que é uma complexidade quadrática: O($n^2$)
+
+##### Shell Sort
+
+Executa-se a inserção simples em partiçoes do vetor original, criados em diferentes posiçoes do vetor.
+
+Os saltos vão diminuindo conforme estão mais próximas de serem ordenadas.
+
+Teorema 1: O($n^{\frac{3}{2}}$)
+
+Teorema 2: O($n \log n^2$)
+
+#### Baseados em Seleção
+
+Seleciona um elemento e colocar na sua posição correta.
+
+* Seleção Direta
+* Heap-sort
+
+##### Selection Sort
+
+Seleciona um elemento e com base nos demais coloca na posição correta. Tanto em seu melhor, quanto no pior tem ordem quadrática.
+
+##### Heap-Sort
+
+Heap sort vai fazer o mesmo encontrando o menor/maior elemento e colocar em sua posição correta. Mas a diferença é que ele vai usar uma estrutura Heap, que implementa uma lista com prioridades, em seu elemento saiz vai ter o maior elemento do vetor, acelerando o processo de seleção.
+
+Heap implementa uma arvore binária quase completa, com ordem $\log n$. Sleeção por meio do rearrajamento do heap que tem custo de log n.
+
+A complexidade do Heap-Sort é $\Theta(n \log n)$
+
+#### Baseado em Intercalação
+
+##### Merge-Sort
+
+Fazer a divisão e conquista, ou seja, dividir o array até o menor caso, que é simples de ordenar, e vai-se compondo a lista na etapa de conquista, reposicionando os elementos de forma ordenada.
+
+A complexidade do Merge Sort é $n \log n$, se voce tiver um array mt grande ele vai quequisitar o dobro de memória desse array

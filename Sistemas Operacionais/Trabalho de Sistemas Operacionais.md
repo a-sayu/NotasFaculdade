@@ -7,3 +7,5 @@ Primeira Fase: Questões **8** e **9**
 Segunda Fase: Questão **10**
 
 Terceira Fase: Questão **11**
+
+Quarta Fase: Questão **12**

@@ -26,6 +26,8 @@ SO ??
 
 07 : P2 | Programação Orientada à Objetos II
 
+11 : P1 | Sistemas Operacionais
+
 12 : T2 | Programação Orientada à Objetos II
 
 13 : P2 | Probabilidade e Estatística II
@@ -35,5 +37,7 @@ SO ??
 26 : P2 | Cálculo III
 
 ## Dezembro
+
+04 : P2 | Sistemas Operacionais
 
 06 : P2 | Álgebra Linear

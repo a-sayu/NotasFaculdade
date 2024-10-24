@@ -11,12 +11,8 @@
             "id": "268960e1ab420e5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POO/Aula 16.10.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4c265193b4a6fa70",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POO/Aula 16.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POO/Aula 16.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "POO/Aula 16.10.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,13 +140,22 @@
   },
   "active": "268960e1ab420e5d",
   "lastOpenFiles": [
+    "ED2/Aula 09.26.md",
+    "ED2/Nota 10.11.md",
+    "ED2/Nota 09.16.md",
+    "ED2/Aula 10.22.md",
+    "ED2/Aula 10.17.md",
+    "ED2/Aula 10.15.md",
+    "ED2/Aula 10.10.md",
+    "ED2/Aula 10.08.md",
+    "Anotações Gerais/PAA Nota.md",
+    "Anotações Gerais/Agenda Provas.md",
     "ED2/Aula 15.10.md",
     "POO/Aula 16.10.md",
     "Sistemas Operacionais/Aula 14.10.md",
     "Sistemas Operacionais/Aula 16.09.md",
     "Sistemas Operacionais/Aula 18.09.md",
     "Untitled.md",
-    "ED2/Aula 10.10.md",
     "ED2/Aula 08.10.md",
     "ED2/Aula 26.09.md",
     "ED2/Existe_Caminho.png",

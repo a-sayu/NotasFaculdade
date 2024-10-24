@@ -1,5 +1,7 @@
 # Aula de Estrutura de Dados II
 
+Tag: #ED2
+
 Nota: Realizar revisão do Slide de Grafos Parte 2 até o slide 35 (pág. 6)
 
 ## Percurso em Grafos

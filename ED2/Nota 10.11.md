@@ -1,5 +1,7 @@
 # Anotação Patricia Arthur
 
+Tag: #ED2
+
 ## Três casos de remoção
 
 Caso 1: Ponteiro para si mesmo, exclusão fácil, e se tiver filhos o pai aponta = pai aponta para o neto;

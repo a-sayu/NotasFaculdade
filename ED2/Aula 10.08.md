@@ -1,5 +1,7 @@
 # Aula de Estrutura de Dados II
 
+Tag: #ED2
+
 Vimos na última aula o algoritmo de recomendação.
 
 O grafo não precisa ser unidirecional, pode ser bidirecional também.

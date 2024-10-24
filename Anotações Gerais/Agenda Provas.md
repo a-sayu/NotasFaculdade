@@ -1,5 +1,7 @@
 # Data das Provas
 
+Tag: #anotacao_geral #data_provas
+
 SO ??
 
 ## Setembro
@@ -31,6 +33,8 @@ SO ??
 12 : T2 | Programação Orientada à Objetos II
 
 13 : P2 | Probabilidade e Estatística II
+
+20 : T3 | Estrutura de Dados II
 
 21 : P2 | Estrutura de Dados II
 

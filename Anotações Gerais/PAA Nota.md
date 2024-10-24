@@ -1,5 +1,7 @@
 # Anotações Referentes à PAA
 
+Tag: #anotacao_geral #PAA
+
 ## 15/10
 
 ### Análise de Algoritmos

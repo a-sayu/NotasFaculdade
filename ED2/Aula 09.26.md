@@ -1,5 +1,7 @@
 # Aula de Estrutura de Dados II
 
+Tag: #ED2
+
 ## Grafos
 
 Como calcular o grau, que é número de vizinhos de um vértice.

@@ -2,29 +2,29 @@
 
 Tag: #anotacao_geral #data_provas
 
-SO ??
-
 ## Setembro
 
-06 : T1 | Programação Orientada à Objetos II
+~~06~~ : T1 | Programação Orientada à Objetos II
 
-15 : T1 | Estrutura de Dados II - Arvore B
+~~15~~ : T1 | Estrutura de Dados II - Arvore B
 
-19 : P1 | Programação Orientada à Objetos II
+~~19~~ : P1 | Programação Orientada à Objetos II
 
-24 : P1 | Cálculo III
+~~24~~ : P1 | Cálculo III
 
-25 : P1 | Probabilidade e estatística II
+~~25~~ : P1 | Probabilidade e estatística II
 
 ## Outubro
 
-11 : P1 | Álgebra Linear
+~~11~~ : P1 | Álgebra Linear
 
-14 : T2 | Estrutura de Dados II - Patricie Trie
+~~14~~ : T2 | Estrutura de Dados II - Patricie Trie
 
-18 : P1 | Projeto e Análise de Algoritmos
+~~18~~ : P1 | Projeto e Análise de Algoritmos
 
 ## Novembro
+
+04 : T1 | Projeto e Análise de Algoritmos
 
 07 : P2 | Programação Orientada à Objetos II
 
@@ -34,9 +34,9 @@ SO ??
 
 13 : P2 | Probabilidade e Estatística II
 
-20 : T3 | Estrutura de Dados II
+13 : T3 | Estrutura de Dados II
 
-21 : P2 | Estrutura de Dados II
+14 : P2 | Estrutura de Dados II
 
 26 : P2 | Cálculo III
 

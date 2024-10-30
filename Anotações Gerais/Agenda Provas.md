@@ -24,11 +24,11 @@ Tag: #anotacao_geral #data_provas
 
 ## Novembro
 
-04 : T1 | Projeto e Análise de Algoritmos
-
 07 : P2 | Programação Orientada à Objetos II
 
 11 : P1 | Sistemas Operacionais
+
+11 : T1 | Projeto e Análise de Algoritmos
 
 12 : T2 | Programação Orientada à Objetos II
 

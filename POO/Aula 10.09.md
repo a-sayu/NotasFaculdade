@@ -1,5 +1,7 @@
 # Aula de Programação Orientada a Objetos II
 
+Tag: #POO2
+
 Realizamos alguns Exercícios sobre Propriedades de Projeto.
 
 TODO: Reler os exercicios da página 51 em diante e realizá-los.

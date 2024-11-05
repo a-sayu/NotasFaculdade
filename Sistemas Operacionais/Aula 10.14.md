@@ -1,5 +1,7 @@
 # Aula de Sistemas Operacionais
 
+Tag: #SO
+
 ## Responder questão 11
 
 Imediatamente antes de encerrar a sua execução, o BIOS da FCTarc13 realiza duas últimas tarefas. Problema: precisamos deduzir que tarefa é essa.

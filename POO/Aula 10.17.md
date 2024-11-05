@@ -1,5 +1,7 @@
 # Aula de POO2
 
+Tag: #POO2
+
 Todo padrão de projeto cria acoplamentos, evitar de criar por criar e sim por utilidade e ganho;
 
 **Fabric**, se tem uma classe que fabrica, se altero algo, altero apenas a fabrica e não a classe que está sendo usada.

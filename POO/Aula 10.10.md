@@ -1,5 +1,7 @@
 # Aula de Programação Orientada a Objetos II
 
+Tag: #POO2
+
 Continuação dos princípios de projeto.
 
 TODO: Estudar atentamente, como perdeu quase que todo o restante dos princípios. pág 92.

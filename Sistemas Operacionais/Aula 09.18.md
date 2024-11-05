@@ -1,5 +1,7 @@
 # Aula de Sistemas Operacionais
 
+Tag: #SO
+
 Responder as questões 8 e 9.
 
 8- Mesmo quando um computador está desligado, o seu sistema operacional e os seus programas de usuário permanecem armazenados em um dos seus recursos. Identifique o recurso.

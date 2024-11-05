@@ -1,5 +1,7 @@
 # Aula de Sistemas Operacionais
 
+Tag: #SO
+
 ## Resposta da Queestão 12 para a quarta fase
 
 12 - Um dos membros da nossa equipe não sabe o que é escalonamento. Problema: você deve usar um exemplo do seu cotidiano para exemplificar o que é escalonamento.

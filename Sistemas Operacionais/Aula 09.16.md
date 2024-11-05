@@ -1,5 +1,7 @@
 # Aula de Sistemas Operacionais
 
+Tag: #SO
+
 Resposta
 
 6- A FCT designou a sua equipe para desenvolver um novo sistema operacional “a partir do zero” para certo sistema de computação. Problema: você deve identificar o “PONTO DE PARTIDA” DO PROJETO, ou seja, POR ONDE COMEÇAR. Interessada em desenvolver um novo sistema operacional para a FCTarc13, a Unesp contratou você para chefiar uma equipe de desenvolvimento, a qual se encarregará dessa tarefa. Problema: como chefe, determine a tarefa inicial do processo de desenvolvimento do sistema operacional da FCTarc13 a ser realizada pela sua equipe.

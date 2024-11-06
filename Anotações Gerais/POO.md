@@ -44,7 +44,9 @@ Existem dois acoplamentos:
 
 Aceitável e o Ruim
 
-O Aclopamento Aceitável depende das duas classes que dependem entre si, em que aquela que depende de outra tem realmente necessidade pelo benefício da outra, a outra "promete" que irá se comportar de certa meneira, e que ela apenas chamará métodos da interface, sem conhecer ou depender de detalhes internos da outra.
+O **Aclopamento Aceitável** depende das duas classes que dependem entre si, em que aquela que depende de outra tem realmente necessidade pelo benefício da outra, a outra "promete" que irá se comportar de certa meneira, e que ela apenas chamará métodos da interface, sem conhecer ou depender de detalhes internos da outra.
+
+O **Acoplamento Ruim** ocorre em duas situações, a primeira quando a classe usada é frequentemente modificada, criando um vínculo frágil e difícil de manter, pois a que depende sempre fica propensas a problemas por conta da classe usada, e segunda quando a classe que depende acessa diretamente a implementação interna da outra, expondo os detalhes e as tornando fortemente dependentes.
 
 ### Princípios para Projetos
 

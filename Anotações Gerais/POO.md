@@ -98,14 +98,42 @@ Todas as implementações do Singleton tem duas coisas em comum:
 
 ### Padrões de Projeto Estruturais
 
-* Proxy
+#### Proxy
+
+**Proxy**, é um padrão que permite fornecer um substituto/espaço reservado à um objeto, controlando o acesso ao objeto original.
+
+**Mas por que controlar acesso?**, supondo que você tenha um objeto que consome muitos recursos do sistema, mas não precisa dele sempre, você pode adiar a criação dele, mas essa lógica resultaria em código duplicado (o cliente checa se precisa criar).
+
+O proxy resolve o problema acima criando um intermediário que simula a classe original, ele atrasa a sua criação até o momento que for realmente necessário.
+
+Basicamente, ele chama na primeira execução e nas próximas, enquanto não houver modificação no objeto, chamará o objeto criado guardado.
+
+#### Adapter
+
 * Adapter
+
+#### Facade
+
 * Facade
+
+#### Decorator
+
 * Decorator
 
 ### Padrões de Projeto Comportamentais
 
+#### Strategy
+
 * Strategy
+
+#### Observer
+
 * Observer
+
+#### Template Method
+
 * Template Method
+
+#### Visitor
+
 * Visitor

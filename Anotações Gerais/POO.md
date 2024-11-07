@@ -123,7 +123,16 @@ A melhor analogia para o Adapter é o adaptador de tomada.
 
 #### Facade
 
-* Facade
+**Facade**, é um padrão que fornece uma interface simplificada para um biblioteca, framework ou conjunto complexo de classes, o não uso de um fachada ao usar um conjunto complexto tornaria seu código muito acoplado aos detalhes de classes de terceiros, tornando difícil de entender e compreender.
+
+Com a fachada, ela fornece uma interface simples para um subsistema com muitas partes, fornecendo ao cliente apenas as funcionalidades que ele se importa.
+
+O cliente não precisa saber o que você está instanciando, o formato de um arquivo que vai ser sempre o mesmo e etc!
+
+**Quando Usar?** Situações que o padrão Fachada podem ser aplicados:
+
+* Quando é necessário uma interface simplificada para um subsistema complexo, mostrando apenas o essencial.
+* Quando quer estruturar um subsistema em camadas, reduzindo o acoplamento entre subisistemas, mantendo a comunicação organizada e independente (similar ao mediador)
 
 #### Decorator
 

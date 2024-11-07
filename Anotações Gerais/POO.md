@@ -50,13 +50,14 @@ O **Acoplamento Ruim** ocorre em duas situações, a primeira quando a classe us
 
 ### Princípios para Projetos (Incompleto)
 
-**Responsabilidade Única:**
-
+* Responsabilidade Única
 * Segregação de Interfaces
 * Prefira Interfaces à Classes
 * Aberto/Fechado
 * Demeter
 * Substituição de Liskov
+
+[Link para uma resposta do chatgpt](https://chatgpt.com/share/672ce053-af50-800b-bfb8-f8b8cc38d87e)
 
 ### Padrões de Projeto: Por que?
 

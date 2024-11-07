@@ -136,7 +136,12 @@ O cliente não precisa saber o que você está instanciando, o formato de um arq
 
 #### Decorator
 
-* Decorator
+**Decorator**, é um padrão que permite que você acople novos comportamentos para objetos colocando-os em "pacotes" que contem esses comportamentos.
+
+**Quando Usar:**
+
+* Precisa adicionar comportamentos adicionais, por exemplo em execução, sem quebrar o código que usa esses objetos
+* Quando o padrão é complicado ou impossível de estender com herança
 
 ### Padrões de Projeto Comportamentais
 

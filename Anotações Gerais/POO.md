@@ -48,18 +48,34 @@ O **Aclopamento Aceitável** depende das duas classes que dependem entre si, em 
 
 O **Acoplamento Ruim** ocorre em duas situações, a primeira quando a classe usada é frequentemente modificada, criando um vínculo frágil e difícil de manter, pois a que depende sempre fica propensas a problemas por conta da classe usada, e segunda quando a classe que depende acessa diretamente a implementação interna da outra, expondo os detalhes e as tornando fortemente dependentes.
 
-### Princípios para Projetos
+### Princípios para Projetos (Incompleto)
 
-* Responsabilidade Única
+**Responsabilidade Única:**
+
 * Segregação de Interfaces
 * Prefira Interfaces à Classes
 * Aberto/Fechado
 * Demeter
 * Substituição de Liskov
 
+### Padrões de Projeto: Por que?
+
+**Reuso**, Você pode reaproveitar soluções para problemas recorrentes ao invés de criar uma solução do zero, economizando tempo de desenvolvimento e risco de erros.
+
+**Vocabulário para Comunicação**, quando todos sabem o que significam os nomes dos padrões de projeto, fica mais fácil de entender e alinhar as decisões de design e implementação.
+
 ### Padrões de Projeto Criacionais
 
-* Abstract Factorey
+**Abstract Factory**, é um padrão que permite você ter famílias de objetos relacionados sem ter que especificar suas classes concretas ao usá-las.
+
+Um jeito de entender é que o cliente apenas deseja criar **um objeto de uma família**, ele não quer ter que especificar o tipo que ele está criando durante todo o código, pois se mudar o cliente terá que mudar todo o código! É muito mais fácil se tivermos que **mudar uma linha do que todas**, certo?
+
+**Quando Usar?** Situações que você pode avaliar de usar Abstract Factory:
+
+* Trabalhar com famílias de objetos relacionados, ou seja, não depender das classes cruas/concretas daqueles objetos, de forma que você destaque que: é possível **trabalhar sem se comprometer** com a implementação específica desses objetos, permitindo expandir no futuro.
+* **Garantir a não inconsistencia** dos objetos criados, pois todos os objetos irão estar em uma mesma variante padronizada, garantindo que objetos criados por uma fábrica pertençam a mesma família.
+* Extrair métodos de uma **classe sobrecarregada**, ou seja classes que não seguem o princípio de responsabilidade única e possuem métodos de criação que tiram o foco de sua "responsabilidade principal"
+
 * Singleton
 
 ### Padrões de Projeto Estruturais

@@ -84,7 +84,17 @@ Um jeito de entender é que o cliente apenas deseja criar **um objeto de uma fam
 
 #### Singleton
 
-**Singleton**,
+**Singleton**, é um padrão que permite garantir uma instância única para uma classe, provendo um acesso global para essa instância.
+
+Todas as implementações do Singleton tem duas coisas em comum:
+
+* Constrtor padrão Privado (Não permiter um new)
+* Método estático de criacão que chama o construtor privado para o criar e salva em um campo estático de forma que todas as chamadas seguintes retornem um objeto já existente.
+
+**Quando Usar?** Situações que o padrão Singleton pode ser aplicado:
+
+* Quando se precisa de uma única instância compartilhada com todos os clientes.
+* Um controle mais estrito sobre variáveis globais, sem o risco de duplicar a instância.
 
 ### Padrões de Projeto Estruturais
 

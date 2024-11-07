@@ -110,7 +110,16 @@ Basicamente, ele chama na primeira execução e nas próximas, enquanto não hou
 
 #### Adapter
 
-* Adapter
+**Adapter**, é um padrão que permite objetos incompatíveis colaborarem entre si.
+
+Usando esse padrão, ao invés de modificar o codigo (que talvez você não tenha acesso, talvez possa quebrar algum outro código que depende dele), você cria um objeto especial que converte a interface de um objeto para que outro possa entendê-lo.
+
+A melhor analogia para o Adapter é o adaptador de tomada.
+
+**Por que usar o Adapter?** Situações que o padrão Adapter pode ser aplicado:
+
+* Quando quer usar uma classe existente, mas a sua interface não é compatível.
+* Quando você quiser reutilizar diversas subclasses existentes que não possuam uma funcionalidade comum que não pode ser adicionada a superclasse (se assemelha muito a um decorador)
 
 #### Facade
 

@@ -112,7 +112,7 @@ Resposta: Multiprogramado
 
 O que é um computador? é uma organização de recursos que são submetidos a processos para gerar resultados.
 
-Computadores tem recursos com finalidades específicas.
+Computadores tem recursos com finalidades específicas:
 
 * Engenharia e Produção - Processador: Unidade de Controle, Unidades Funcionais Diversas
 * Vendas - Memória RAM
@@ -135,3 +135,5 @@ Os periféricos são gerenciados por Softwares de E/S: Drivers e Rotinas de Serv
 As memórias secundárias, SSD, HD e etc, são gerenciadas pelo Sistema de Arquivos.
 
 As ameaças são gerenciadas pelo sistema de segurança.
+
+### Let's Travel

@@ -34,9 +34,9 @@ Tag: #anotacao_geral #data_provas
 
 13 : P2 | Probabilidade e Estatística II
 
-13 : T3 | Estrutura de Dados II
+18 : T3 | Estrutura de Dados II
 
-14 : P2 | Estrutura de Dados II
+19 : P2 | Estrutura de Dados II
 
 17 : L2 | Probabilidade e Estatística II
 

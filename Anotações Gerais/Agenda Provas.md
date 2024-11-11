@@ -24,19 +24,21 @@ Tag: #anotacao_geral #data_provas
 
 ## Novembro
 
-07 : P2 | Programação Orientada à Objetos II
+~~07~~ : P2 | Programação Orientada à Objetos II
 
 11 : P1 | Sistemas Operacionais
 
 11 : T1 | Projeto e Análise de Algoritmos
 
-12 : T2 | Programação Orientada à Objetos II
+13 : T2 | Programação Orientada à Objetos II
 
 13 : P2 | Probabilidade e Estatística II
 
 13 : T3 | Estrutura de Dados II
 
 14 : P2 | Estrutura de Dados II
+
+17 : L2 | Probabilidade e Estatística II
 
 26 : P2 | Cálculo III
 

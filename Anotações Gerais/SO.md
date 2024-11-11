@@ -106,4 +106,32 @@ Resposta:  O sistema operacional e os dois programas de usuário são escalonado
 
 Problema: Você deve classificar o seu sistema quanto ao número de programas executados “ao mesmo tempo”.  
 
-Resposta: Multiprogramado  
+Resposta: Multiprogramado
+
+### Factory
+
+O que é um computador? é uma organização de recursos que são submetidos a processos para gerar resultados.
+
+Computadores tem recursos com finalidades específicas.
+
+* Engenharia e Produção - Processador: Unidade de Controle, Unidades Funcionais Diversas
+* Vendas - Memória RAM
+* Logística - Periféricos
+* Almoxarifado - HD ou SSD
+* Vigilância - Sensores
+
+O Braço robótico recebe inputs e faz outputs
+
+O sistema operacional é a administração da máquina, gerenciando os recursos e os processos no computador.
+
+O usuário é o cliente, e ele não vê os processos e recursos, para que ele tenha acesso fácil e agradável.
+
+O Processador é gerenciado pelo Gerenciador de Processos
+
+A Memória RAM é gerenciado pela Gerencia de Memória
+
+Os periféricos são gerenciados por Softwares de E/S: Drivers e Rotinas de Serviço
+
+As memórias secundárias, SSD, HD e etc, são gerenciadas pelo Sistema de Arquivos.
+
+As ameaças são gerenciadas pelo sistema de segurança.

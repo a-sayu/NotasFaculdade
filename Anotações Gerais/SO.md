@@ -16,7 +16,7 @@ Contexto: A FCT designou a sua equipe para desenvolver um novo sistema operacion
 
 Problema: Você deve identificar o que vocês precisam saber ANTES de começar o projeto do sistema operacional, ou seja, qual conhecimento é essencial ANTES que o projeto possa ser iniciado.
 
-Resposta:  
+Resposta: Todas as alternativas anteriores: Fabricante, Velocidade, Marca e Modelo do sistema de computação e Recursos disponíveis e características gerais dos programas de usuários  
 
 **Questão 2**:
 

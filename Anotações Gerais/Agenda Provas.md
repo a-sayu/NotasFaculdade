@@ -30,8 +30,6 @@ Tag: #anotacao_geral #data_provas
 
 11 : T1 | Projeto e Análise de Algoritmos
 
-13 : T2 | Programação Orientada à Objetos II
-
 13 : P2 | Probabilidade e Estatística II
 
 18 : T3 | Estrutura de Dados II
@@ -42,8 +40,20 @@ Tag: #anotacao_geral #data_provas
 
 26 : P2 | Cálculo III
 
+27 : T2 | Programação Orientada à Objetos II
+
 ## Dezembro
+
+03 : EX | Estrutura de Dados II
 
 04 : P2 | Sistemas Operacionais
 
 06 : P2 | Álgebra Linear
+
+10 : EX | Programação Orientada a Objetos II
+
+11 : EX | Probabilidade e Estatística II
+
+13 : SB | Algebra Linear
+
+20 : EX | Algebra Linear

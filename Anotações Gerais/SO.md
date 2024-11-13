@@ -138,21 +138,31 @@ As ameaças são gerenciadas pelo sistema de segurança.
 
 ### Let's Travel
 
-Aeroporto - Computador: possui recuros úteis para trabalharmos.
-Avião - Hardware Periférico: permite fazer entrada e saída de informações.
-Funcionários - Programas do Núcleo do Sistema Operacional: gerenciam esses recursos (Hardware).
-    Piloto - Driver: exemplo de Programas do Núcleo, traduz ordens para os periféricos.
-    Integrante da Tripulação de Solo do Aeroporto - Rotina de Tratamento de Interrupção: indica ao driver o que o periférico deve fazer.
-    Analista de Operações Aéreas - Escalonador de processos: determina quando e por quanto tempo cada programa deve ser executado.
-        Pedido formal - Chamada de Sistema: ativa o escalonador
-            Paralização - Interrupção: ocorre com toda Chamade de Sistema para que o escalonador possa agir.
-            Planos de Voo - Programas de usuário: são aqueles que não fazem parte do núcleo do sistema operacional.
-                Planos em Processamento - Processos: Programas de usuário ativos e todas as informações que mantém eles em atividade.
-                Escaninho - Memória Principal: onde os Programas de Usuário são armazenados temporariamente.
-                    Fixo ou Flexível - Partições Fixas ou Estáticas: classifa as regiões da Memória RAM quanto ao tipo de gerenciamento que elas recebem.
-                    Gerência de Escaninhos - Gerência de Memória: gerencia a Memória RAM e os programas de usuários.
-                Armazenador - Arquivo de Disco Rígido: guarda permanentemente cada Programa de Usuário.
-                Controlador de Voo - Sistema de Arquivos: gerenia os arquivos (leitura, escrita, movimentação, exclusão, modificão).
+Aeroporto - Computador: os dois possuem recursos úteis para trabalharmos.
+
+Avião - Hardware Periférico: fazem a entrada e saída de informações.
+
+Funcionários - Programas do Núcleo do Sistema Operacional: são os que gerenciam os recursos, o hardware.
+
+* Piloto - Driver: traduz as ordens para os periféricos.
+* Integrante da Tripulação de Solo do Aeroporto - Rotina de Tratamento de Interrupção: indica ao driver o que o periférico deve fazer.
+* Analista de Operações Aéreas - Escalonador de processos: determina quando e por quanto tempo cada programa deve ser executado.
+
+Pedido formal - Chamada de Sistema: ativa o escalonador
+- Paralização - Interrupção: ocorre com toda Chamada de Sistema para que o escalonador possa agir.
+- Planos de Voo - Programas de usuário: são programas que gerenciam recursos mas que não fazem parte do núcleo do sistema operacional:
+
+Planos em Processamento - Processos: Programas de usuário ativos e todas as informações que mantém eles em atividade.
+
+
+* Escaninho - Memória Principal: onde os Programas de Usuário são armazenados temporariamente (RAM).
+
+Fixo ou Flexível - Partições Fixas ou Estáticas: classicações das regiões da Memória RAM quanto ao tipo de gerenciamento que elas recebem.
+
+Gerência de Escaninhos - Gerência de Memória: gerencia a Memória RAM e os programas de usuários.
+
+* Armazenador - Arquivo de Disco Rígido: guarda permanentemente cada Programa de Usuário.
+Controlador de Voo - Sistema de Arquivos: gerenia os arquivos (leitura, escrita, movimentação, exclusão, modificão).
 
 Aeroporto - Avião - Funcionários - Piloto - Integrantes da Tripulação de Solo - Analista de Operações Aéreas - Interrupção - Planos de Voo - Planos em Processamento.
 

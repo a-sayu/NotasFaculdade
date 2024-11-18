@@ -12,6 +12,10 @@ Terceira Fase: Questão **11** : As duas últimas taredas realizadas pelo BIOS (
 
 Quarta Fase: Questão **12** : O que é escalonamento?
 
-Quinta Fase: Questão **13**
+Quinta Fase: Questão **13** :
 
-Sexta Fase: Questão **14**
+Sexta Fase: Questão **14** :
+
+Sétima Fase: Questão **15** : O que é Processo?
+
+Oitava Fase: Questão **16** : Qual a relação de Processo com o Sistema Operacional e os Programas?

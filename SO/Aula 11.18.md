@@ -17,3 +17,5 @@ Portanto um sistema operacional, nao so gerencia os programas executaveis, mas t
 Processo: O Programa executável, tudo aquilo que o programa precisa para que ele se dê como completo e com sucesso, e toda a informação que o proprio sistema operacional usa para organizar os processos.
 
 Processos passam por algo chamado de ciclo de vida, em que ele nasce, cresce e morre.
+
+A devolutiva do problema 16 será feita na segunda-feira que vêm: Também apresentar a solução para a questão 17.

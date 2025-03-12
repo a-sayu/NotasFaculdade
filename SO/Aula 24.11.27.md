@@ -1,5 +1,7 @@
 # Aula de Sistemas Operacionais
 
+Tag: #SO #SOI
+
 Devolutivas:
 
 16- O sistema gerencia os processos de execução do usuário, assim como as atividades e elementos necessários para execução dos progrmas do usuário.

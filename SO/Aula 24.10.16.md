@@ -1,6 +1,6 @@
 # Aula de Sistemas Operacionais
 
-Tag: #SO
+Tag: #SO #SOI
 
 ## Respondendo a questão 10 novamente por não ter guardado em algum local
 

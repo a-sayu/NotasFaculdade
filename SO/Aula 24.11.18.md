@@ -1,5 +1,7 @@
 # Aula de Sistemas Operacionais
 
+TAg: #SO #SOI
+
 Devolutiva da questão 15:
 
 Qual é a melhor que explica o que é um processo?

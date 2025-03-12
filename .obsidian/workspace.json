@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7ec6eeaa443dfb64",
+        "id": "51f0d653e8a6710b",
         "type": "tabs",
         "children": [
           {
-            "id": "8f7f1294ae734b27",
+            "id": "e8e0bceb9682a826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotações Gerais/SO.md",
+                "file": "2025_Anotações/PDI/Aula 25.03.12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SO"
+              "title": "Aula 25.03.12"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,39 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f7f1294ae734b27",
+  "active": "e8e0bceb9682a826",
   "lastOpenFiles": [
-    "Anotações Gerais/SO.md",
-    "SO/Aula 10.16.md",
-    "SO/Aula 10.14.md",
-    "SO/Aula 09.16.md",
-    "SO/Aula 09.18.md",
-    "SO/Aula 11.04.md",
+    "2025_Anotações/PDI/Aula 25.02.26.md",
+    "2025_Anotações/PDI/Aula 25.03.12.md",
+    "SO/Aula 25.03.11.md",
+    "SO/Aula 25.02.25.md",
+    "SO/Aula 25.02.21.md",
+    "2025_Anotações/BD/Aula 25.03.11.md",
+    "2025_Anotações/BD/Aula 25.03.10.md",
+    "2025_Anotações/BD/Aula 25.02.25.md",
+    "2025_Anotações/BD/Aula 25.02.24.md",
+    "2025_Anotações/Cronograma.md",
+    "2025_Anotações/Banco de Dados I.md",
+    "2025_Anotações/ESI/Aula 25.02.27.md",
+    "2025_Anotações/ESI",
+    "SO/Aula 24.11.27.md",
+    "2025_Anotações/PDI",
+    "SO/Aula 24.11.18.md",
+    "SO/Aula 24.11.06.md",
+    "SO/Aula 24.11.04.md",
+    "SO/Aula 24.10.21.md",
+    "SO/Aula 24.10.16.md",
+    "SO/Aula 24.10.14.md",
+    "SO/Aula 24.09.18.md",
+    "SO/Aula 24.09.16.md",
     "SO/Trabalho de Sistemas Operacionais.md",
-    "SO/Aula 11.06.md",
-    "SO/Aula 10.21.md",
+    "2024_Anotações/SO.md",
+    "SO/Aula 25.02.18.md",
+    "2024_Anotações/Agenda Provas.md",
+    "2024_Anotações/ED2.md",
+    "2025_Anotações",
+    "2025_Anotações/BD",
     "SO",
-    "ED2/Aula 09.26.md",
-    "ED2/Nota 10.11.md",
-    "ED2/Nota 09.16.md",
-    "ED2/Aula 10.22.md",
-    "ED2/Aula 10.17.md",
-    "ED2/Aula 10.15.md",
-    "ED2/Aula 10.10.md",
-    "ED2/Aula 10.08.md",
-    "Anotações Gerais/PAA Nota.md",
-    "Anotações Gerais/Agenda Provas.md",
-    "ED2/Aula 15.10.md",
-    "POO/Aula 16.10.md",
-    "Sistemas Operacionais/Aula 14.10.md",
-    "Sistemas Operacionais/Aula 16.09.md",
-    "Sistemas Operacionais/Aula 18.09.md",
-    "Untitled.md",
-    "ED2/Aula 08.10.md",
-    "ED2/Existe_Caminho.png",
-    "ED2",
+    "2024_Anotações/ED2/Existe_Caminho.png",
+    "2024_Anotações/ED2",
     "Untitled.canvas",
-    "POO",
+    "2024_Anotações/POO",
     "Sistemas Operacionais"
   ]
 }

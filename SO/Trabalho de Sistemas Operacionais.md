@@ -20,4 +20,14 @@ Sétima Fase: Questão **15** : O que é Processo?
 
 Oitava Fase: Questão **16** : Qual a relação de Processo com o Sistema Operacional e os Programas?
 
+Nona Fase: Questão **17**:
+
+Décima Fase: Questão **18**:
+
+Décima Primeira Fase: Questão **19**:
+
+Décima Segunda Fase: Questão **20**:
+
+Décima Terceira Fase: Questão **21**:
+
 ## Nova Etapa para o Desenvolvimento dos Jogos

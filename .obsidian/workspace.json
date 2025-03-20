@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025_Anotações/PDI/Aula 25.03.19.md",
+                "file": "2025_Anotações/ESI/Aula 25.03.20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 25.03.19"
+              "title": "Aula 25.03.20"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4c265193b4a6fa70",
@@ -162,13 +161,15 @@
   },
   "active": "29dcf20e4764479c",
   "lastOpenFiles": [
+    "2025_Anotações/ESI/Aula 25.03.17.md",
+    "2025_Anotações/ESI/Aula 25.03.13.md",
+    "2025_Anotações/ESI/Aula 25.03.20.md",
+    "2025_Anotações/ESI/Aula 25.02.27.md",
     "2025_Anotações/PDI/Aula 25.03.19.md",
     "2025_Anotações/BD/Aula 25.03.17.md",
     "2025_Anotações/BD/Aula 25.03.10.md",
     "2025_Anotações/BD/Aula 25.03.11.md",
     "SO/Trabalho de Sistemas Operacionais.md",
-    "2025_Anotações/ESI/Aula 25.03.17.md",
-    "2025_Anotações/ESI/Aula 25.03.13.md",
     "SO/Aula 25.03.14.md",
     "SO/Aula 25.03.11.md",
     "SO/Aula 25.02.25.md",
@@ -179,7 +180,6 @@
     "SO/Aula 25.02.21.md",
     "SO/Aula 25.02.18.md",
     "SO/Aula 24.11.27.md",
-    "2025_Anotações/ESI/Aula 25.02.27.md",
     "2025_Anotações/PDI/Aula 25.03.12.md",
     "2025_Anotações/PDI/Aula 25.02.26.md",
     "2025_Anotações/BD/Aula 25.02.25.md",
@@ -189,7 +189,6 @@
     "2025_Anotações/ESI",
     "2025_Anotações/PDI",
     "SO/Aula 24.11.18.md",
-    "SO/Aula 24.10.21.md",
     "2025_Anotações",
     "2025_Anotações/BD",
     "SO",

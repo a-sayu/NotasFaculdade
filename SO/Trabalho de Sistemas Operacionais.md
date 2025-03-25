@@ -40,4 +40,4 @@ Décima Quinta Fase: Questão **23** e **24** : Como funciona um algoritmo de es
 
 Décima Sexta Fase: Questão **25** : Como definir para onde ele deve alternar?
 
-## Nova Etapa para o Desenvolvimento dos Jogos
+Décima Sétima Fase: Questão **26** : O contexto, um conjunto de informações armazenados nos registradores a cada instante

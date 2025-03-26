@@ -1,6 +1,6 @@
 # Anotações Referentes à PAA
 
-Tag: #anotacao_geral #PAA
+Tag: #anotacao_geral #2_Ano #PAA
 
 ## 15/10
 

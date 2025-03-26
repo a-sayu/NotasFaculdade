@@ -1,6 +1,6 @@
 # Aula de Sistemas Operacionais II
 
-Tag: #SO  #SOII
+Tag: #3_Ano #SO  #SOII
 
 Primeira Aula do Ano de 2025, continuação da disciplina de Sistemas Operacionais.
 

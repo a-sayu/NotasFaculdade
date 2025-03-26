@@ -1,6 +1,6 @@
 # Estudando para Estrutura de dados II
 
-Tag: #ED2
+Tag: #2_Ano #ED2
 
 As estruturas estudadas anteriormente estudadas como Árvore Binária de Busca, Árvore AVL, Árvores Rubro-Negra são adequadas para a memória primária, onde o tempo de acesso é rápido, mas na memória secundária o desempenho se torna ínfimo.
 

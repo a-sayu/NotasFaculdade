@@ -1,6 +1,6 @@
 # Aula de Sistemas Operacionais
 
-Tag: #SO #SOI
+Tag: #2_Ano #SO #SOI
 
 A proxima segunda feira (11/11) vai ser a P1, que será no anfiteatro 1, as 16h.
 

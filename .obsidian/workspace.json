@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd98e59ef7f280f4",
+        "id": "714738f888a8538e",
         "type": "tabs",
         "children": [
           {
-            "id": "5a9411efe744fc0a",
+            "id": "e059ea711b2a9f14",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#3_Ano",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,24 +123,16 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "156035dd874af259",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "e9b70e1c3b7a0e10",
+            "id": "335073d5022945fd",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -149,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,35 +159,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a9411efe744fc0a",
+  "active": "e059ea711b2a9f14",
   "lastOpenFiles": [
-    "2024_Anotações/ED2/Nota Grafos.md",
-    "2024_Anotações/Sistemas Operacionais I.md",
-    "2024_Anotações/TODO.md",
-    "2024_Anotações/POO.md",
-    "SO/Aula 25.03.25.md",
-    "SO/Aula 25.03.21.md",
-    "SO/Aula 25.03.14.md",
-    "SO/Aula 25.03.11.md",
-    "2025_Anotações/Cronograma.md",
-    "2025_Anotações/Banco de Dados I.md",
-    "2025_Anotações/BD/Aula 25.03.17.md",
-    "2025_Anotações/BD/Aula 25.03.11.md",
-    "2025_Anotações/BD/Aula 25.03.10.md",
-    "2025_Anotações/BD/Aula 25.02.25.md",
-    "2025_Anotações/BD/Aula 25.02.24.md",
-    "2025_Anotações/ESI/Aula 25.03.25.md",
-    "2025_Anotações/ESI/Aula 25.03.20.md",
     "2025_Anotações/ESI/Aula 25.03.17.md",
-    "2025_Anotações/ESI/Aula 25.03.13.md",
-    "2025_Anotações/ESI/Aula 25.02.27.md",
+    "2025_Anotações/Cronograma.md",
+    "2024_Anotações/POO/POO.md",
+    "2024_Anotações/POO/Aula 10.17.md",
+    "2024_Anotações/POO/Aula 10.16.md",
+    "2024_Anotações/POO/Aula 10.10.md",
+    "2024_Anotações/POO/Aula 10.09.md",
+    "2024_Anotações/POO/Aula 09.26.md",
+    "2024_Anotações/PAA/PAA.md",
+    "2024_Anotações/PAA/Aula 11.05.md",
+    "2024_Anotações/PAA/Aula 11.01.md",
+    "2024_Anotações/PAA/Aula 10.29.md",
+    "2024_Anotações/ED2/Nota Grafos.md",
+    "2024_Anotações/ED2/Nota 10.11.md",
+    "2024_Anotações/ED2/Nota 09.16.md",
+    "2024_Anotações/ED2/ED2.md",
+    "2024_Anotações/ED2/Aula 10.22.md",
+    "2024_Anotações/ED2/Aula 10.17.md",
+    "2024_Anotações/ED2/Aula 10.15.md",
+    "2024_Anotações/ED2/Aula 10.10.md",
+    "2024_Anotações/ED2/Aula 10.08.md",
+    "2024_Anotações/ED2/Aula 09.26.md",
+    "SO/Aula 24.11.27.md",
+    "SO/Aula 24.11.18.md",
+    "SO/Aula 24.11.06.md",
+    "SO/Aula 24.11.04.md",
     "2025_Anotações/PDI/LivroPDI.png",
-    "2025_Anotações/PDI/Aula 25.03.26.md",
-    "2025_Anotações/PDI/Aula 25.03.19.md",
-    "2025_Anotações/PDI/Aula 25.03.12.md",
-    "2025_Anotações/PDI/Aula 25.02.26.md",
-    "SO/Trabalho de Sistemas Operacionais.md",
-    "SO/Aula 25.02.25.md",
     "2025_Anotações/ESI",
     "2025_Anotações/PDI",
     "2025_Anotações",

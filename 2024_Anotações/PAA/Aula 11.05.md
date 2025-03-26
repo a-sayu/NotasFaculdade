@@ -1,6 +1,6 @@
 # Aula de Projeto e Análise de Algoritmos
 
-Tags: #PAA
+Tags: #2_Ano #PAA
 
 ## Programação Dinâmica
 

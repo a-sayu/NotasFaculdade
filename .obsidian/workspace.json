@@ -130,19 +130,9 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "335073d5022945fd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -159,7 +149,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e059ea711b2a9f14",
+  "active": "20e0540118454f94",
   "lastOpenFiles": [
     "2025_Anotações/ESI/Aula 25.03.17.md",
     "2025_Anotações/Cronograma.md",

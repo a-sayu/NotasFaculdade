@@ -1,4 +1,4 @@
-Tag: #BD #BDI 
+Tag: #3_Ano #BD #BDI
 
 O Atributo chave é o que vai indicar de forma única, cada tupla (cada linha). Apesar do CPF ser único ele não irá possuir a semântica de um RA.
 

@@ -1,3 +1,5 @@
+Tag: #3_Ano #BD #BDI
+
 Realizar a leitura do capítulo 1 do Silvershatz
 
 O que é um requisito:

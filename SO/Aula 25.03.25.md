@@ -1,3 +1,6 @@
+
+Tag: #SO #SOII 
+
 Questão 25.
 
 Quando começamos a falar de sistemas operacionais, jogamos um jogo de administração de uma empresa, só que a invés de administrar uma empresa, o sistema operacional administra um computador, organizando os recursos do computar, os processos.

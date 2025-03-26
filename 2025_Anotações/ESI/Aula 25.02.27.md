@@ -1,6 +1,6 @@
 # Engenharia de Software I
 
-Tag: #ES #ESI
+Tag: #3_Ano #ES #ESI
 ## Gerenciamento de Configuração.
 
 A atividade que entrelaça todas as atividades de Desenvolvimento. E é essencial para garantir a qualidade e acompanhamento de alterações.

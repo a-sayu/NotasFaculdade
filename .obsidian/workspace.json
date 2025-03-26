@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1d07546bd5ca28e",
+        "id": "cbd3eabe499219e4",
         "type": "tabs",
         "children": [
           {
-            "id": "8be43cd585b45dbb",
+            "id": "552141db73f8fd6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025_Anotações/PDI/Aula 25.03.26.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aula 25.03.26"
             }
           }
         ]
@@ -137,13 +141,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "e9b70e1c3b7a0e10",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,21 +166,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8be43cd585b45dbb",
+  "active": "552141db73f8fd6c",
   "lastOpenFiles": [
+    "2025_Anotações/PDI/Aula 25.03.19.md",
+    "2025_Anotações/PDI/Aula 25.03.26.md",
+    "2025_Anotações/PDI/Aula 25.03.12.md",
+    "2025_Anotações/Cronograma.md",
+    "2025_Anotações/Banco de Dados I.md",
     "2025_Anotações/ESI/Aula 25.03.25.md",
     "2025_Anotações/ESI/Aula 25.03.20.md",
     "SO/Aula 25.03.14.md",
     "SO/Aula 25.03.21.md",
     "SO/Trabalho de Sistemas Operacionais.md",
-    "2025_Anotações/Cronograma.md",
     "2025_Anotações/ESI/Aula 25.02.27.md",
     "2025_Anotações/ESI/Aula 25.03.17.md",
     "2025_Anotações/ESI/Aula 25.03.13.md",
-    "2025_Anotações/PDI/Aula 25.03.19.md",
     "2025_Anotações/BD/Aula 25.03.17.md",
     "2025_Anotações/BD/Aula 25.03.10.md",
     "2025_Anotações/BD/Aula 25.03.11.md",
@@ -179,10 +197,7 @@
     "SO/Aula 25.02.21.md",
     "SO/Aula 25.02.18.md",
     "SO/Aula 24.11.27.md",
-    "2025_Anotações/PDI/Aula 25.03.12.md",
     "2025_Anotações/PDI/Aula 25.02.26.md",
-    "2025_Anotações/BD/Aula 25.02.25.md",
-    "2025_Anotações/BD/Aula 25.02.24.md",
     "2025_Anotações/ESI",
     "2025_Anotações/PDI",
     "2025_Anotações",

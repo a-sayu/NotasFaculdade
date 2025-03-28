@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "714738f888a8538e",
+        "id": "136193eb55e66c95",
         "type": "tabs",
         "children": [
           {
-            "id": "e059ea711b2a9f14",
+            "id": "45f225dd18fd7c5b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#3_Ano",
+                "query": "tag:#data_provas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,9 +130,34 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "6a7b78277e94e0a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025_Anotações/ESI/Aula 25.03.27.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aula 25.03.27"
+            }
+          },
+          {
+            "id": "939cce98efaa3f78",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -149,10 +174,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20e0540118454f94",
+  "active": "45f225dd18fd7c5b",
   "lastOpenFiles": [
-    "2025_Anotações/ESI/Aula 25.03.17.md",
+    "SO/Trabalho de Sistemas Operacionais.md",
     "2025_Anotações/Cronograma.md",
+    "2024_Anotações/Agenda Provas.md",
+    "2024_Anotações/TODO.md",
+    "2025_Anotações/ESI/Aula 25.03.17.md",
+    "2025_Anotações/RCI/Aula 25.03.27.md",
+    "2025_Anotações/ESI/Aula 25.03.27.md",
+    "2025_Anotações/RCI",
+    "Untitled",
+    "2025_Anotações/ESI/Aula 25.02.27.md",
+    "2025_Anotações/ESI/Aula 25.03.25.md",
+    "2025_Anotações/ESI/Aula 25.03.20.md",
+    "2025_Anotações/ESI/Aula 25.03.13.md",
     "2024_Anotações/POO/POO.md",
     "2024_Anotações/POO/Aula 10.17.md",
     "2024_Anotações/POO/Aula 10.16.md",
@@ -168,15 +204,6 @@
     "2024_Anotações/ED2/Nota 09.16.md",
     "2024_Anotações/ED2/ED2.md",
     "2024_Anotações/ED2/Aula 10.22.md",
-    "2024_Anotações/ED2/Aula 10.17.md",
-    "2024_Anotações/ED2/Aula 10.15.md",
-    "2024_Anotações/ED2/Aula 10.10.md",
-    "2024_Anotações/ED2/Aula 10.08.md",
-    "2024_Anotações/ED2/Aula 09.26.md",
-    "SO/Aula 24.11.27.md",
-    "SO/Aula 24.11.18.md",
-    "SO/Aula 24.11.06.md",
-    "SO/Aula 24.11.04.md",
     "2025_Anotações/PDI/LivroPDI.png",
     "2025_Anotações/ESI",
     "2025_Anotações/PDI",

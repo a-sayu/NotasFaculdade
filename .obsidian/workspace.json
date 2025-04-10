@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd2d91ad063c2b70",
+        "id": "6bb943f6d08b6367",
         "type": "tabs",
         "children": [
           {
-            "id": "96d50f49a1282ddf",
+            "id": "4435c5ddab560443",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SO/Aula 25.04.01.md",
+                "file": "2025_Anotações/ESI/Aula 25.04.10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 25.04.01"
-            }
-          },
-          {
-            "id": "30d693ae8a4b929d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SO/Trabalho de Sistemas Operacionais.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trabalho de Sistemas Operacionais"
+              "title": "Aula 25.04.10"
             }
           }
         ]
@@ -58,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -182,46 +168,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96d50f49a1282ddf",
+  "active": "4435c5ddab560443",
   "lastOpenFiles": [
-    "SO/Aula 25.03.28.md",
+    "2025_Anotações/ESI/Aula 25.04.07.md",
+    "2025_Anotações/ESI/Aula 25.04.10.md",
+    "2025_Anotações/PDI/Aula 25.04.09.md",
+    "2025_Anotações/PDI/FiltroPassaAltaGauss.png",
+    "2025_Anotações/PDI/FiltroPassaBaixaConceito.png",
+    "2025_Anotações/PDI/Aula 25.03.26.md",
+    "2025_Anotações/PDI/Aula 25.03.19.md",
+    "2025_Anotações/PDI/Aula 25.02.26.md",
+    "2025_Anotações/PDI/LivroPDI.png",
+    "2025_Anotações/PDI/Aula 25.04.02.md",
     "SO/Aula 25.04.01.md",
-    "SO/Trabalho de Sistemas Operacionais.md",
-    "SO/Sistemas Operacionais I.md",
+    "SO/Aula 25.04.08.md",
     "SO/Aula 24.11.27.md",
     "SO/Aula 24.11.18.md",
-    "SO/Aula 25.02.18.md",
+    "SO/Aula 25.02.25.md",
+    "SO/Trabalho de Sistemas Operacionais.md",
+    "SO/Sistemas Operacionais I.md",
+    "2025_Anotações/ESI/Aula 25.03.31.md",
+    "2025_Anotações/RCI/Aula 25.04.03.md",
+    "2025_Anotações/RCI/Aula 25.03.27.md",
     "2025_Anotações/Cronograma.md",
+    "SO/Aula 25.03.28.md",
+    "SO/Aula 25.02.18.md",
     "2025_Anotações/BD/Aula 25.03.31.md",
     "2025_Anotações/BD/Aula 25.04.01.md",
-    "2025_Anotações/ESI/Aula 25.03.31.md",
     "2025_Anotações/ESI/Aula 25.03.27.md",
     "SO/Aula 25.03.25.md",
     "SO/Aula 25.03.14.md",
     "SO/Aula 25.03.21.md",
-    "SO/Aula 24.09.18.md",
-    "SO/Aula 24.09.16.md",
-    "SO/Aula 24.09.16 - Ponto de Partida, Principais Componentes.md",
-    "2025_Anotações/ESI/Aula 25.03.20.md",
-    "2025_Anotações/ESI/Aula 25.03.17.md",
-    "2025_Anotações/ESI/Aula 25.03.25.md",
-    "2024_Anotações/Agenda Provas.md",
-    "2024_Anotações/TODO.md",
-    "2025_Anotações/RCI/Aula 25.03.27.md",
     "2025_Anotações/RCI",
     "Untitled",
-    "2025_Anotações/ESI/Aula 25.02.27.md",
-    "2025_Anotações/ESI/Aula 25.03.13.md",
-    "2025_Anotações/PDI/LivroPDI.png",
     "2025_Anotações/ESI",
     "2025_Anotações/PDI",
     "2025_Anotações",

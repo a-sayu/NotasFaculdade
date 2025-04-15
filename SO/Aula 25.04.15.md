@@ -14,7 +14,7 @@ Devolutiva da 32: Para envios de comandos ao robô e finalização dos processos
 
 **Questão 36**: Você usou um exemplo do seu cotidiano para exemplificar o que é interrupção para um dos seus colegas de trabalho. Problema: o mesmo colega precisa saber como o sistema operacional lida com interrupções durante o seu funcionamento.
 
-**Resposta**: O sistema inicia o tratamento salvando o contexto do processo, em seguida interrupções são habilitadas para que a interrupção atual possa ser interrompida por uma interrupção de maior prioridade e finalmente durante a restauração do contexto do processo, interrupções são inibidas. (Rotina de tratamento de interrupção (rotina de serviço).) ()
+**Resposta**: O sistema inicia o tratamento salvando o contexto do processo, em seguida interrupções são habilitadas para que a interrupção atual possa ser interrompida por uma interrupção de maior prioridade e finalmente durante a restauração do contexto do processo, interrupções são inibidas. (Rotina de tratamento de interrupção (rotina de serviço).) (Correto) Devolutiva já foi feita no jogo System Call, que tem a passagem sobre o uso dessa rotina.
 
 [fonte da 36](https://www.ime.usp.br/~song/mac344/slides08-interrupts.pdf)
 

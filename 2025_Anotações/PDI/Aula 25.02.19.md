@@ -141,7 +141,7 @@ Espectro eletomagnético possui o comprimento da onda, sendo o visível minúscu
 
 ---
 
-![[Pasted image 20250420154317.png]]
+![[ProcessamentoImagensDigitais.png]]
 
 ---
 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "935bb4bfedf36739",
+        "id": "a253f5692ee7e3f7",
         "type": "tabs",
         "children": [
           {
-            "id": "4b816f2cbf08360f",
+            "id": "dd12fe546d7170c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025_Anotações/PDI/Aula 25.02.19.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aula 25.02.19"
+              "title": "Nova aba"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4c265193b4a6fa70",
@@ -181,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b816f2cbf08360f",
+  "active": "dd12fe546d7170c7",
   "lastOpenFiles": [
     "2025_Anotações/PDI/Aula 25.02.19.md",
     "Pasted image 20250420154317.png",

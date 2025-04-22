@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "spellcheck": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "./"
 }

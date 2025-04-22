@@ -2,6 +2,7 @@
 
 Tag: #3_Ano #PDI 
 
+---
 ## Olho Humano
 
 Almir está explicando sobre o funcionamento do olho e qual parte que importa, no caso, a retina, pois a luz através do olho e projeta-se na retina, em um ponto chamado Fovia (importante), onde se possui detalhes.
@@ -119,5 +120,3 @@ Operações sobre pixeis individuais, ou seja, operações pontuais. transforma�
 O desvio padrão é uma boa estatística para identificar o contraste. 
 
 Próxima Aula será prática.
-
-

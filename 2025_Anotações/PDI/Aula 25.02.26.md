@@ -3,11 +3,23 @@
 Tag: #3_Ano #PDI 
 
 ---
+
+Luz é um fenômeno físico, uma radiação eletromagnética. A cor depende da interação da luz com o sistema visual do ser humano, portanto um efeito psicofisiológico.
+
+Para a formação de imagens, uma energia é emitida por uma fonte, essa energia é refletida por objetos e então captada pelo sensor.
 ## Olho Humano
 
-Almir está explicando sobre o funcionamento do olho e qual parte que importa, no caso, a retina, pois a luz através do olho e projeta-se na retina, em um ponto chamado Fovia (importante), onde se possui detalhes.
+O nosso sensor de imagens.
+
+Como o olho funciona foi explicado e a parte a qual importa é, no caso, a retina, pois a luz através do olho e projeta-se na retina, em um ponto chamado ***Fóvea*** (importante), onde se possui detalhes.
+
+> *Fóvea é uma pequena área da retina que contém a maior concentração de fotorreceptores/cones, responsáveis pela visão nítida de detalhes*
 
 O que são bastonetes e cones na retina?
+
+> *Há dois tipos de fotorreceptores, cones e bastonetes, cones anteriormente mencionados são reeferentes à visão nítida, bastonetes são responsáveis pela isão periférica e noturna, são mais sensíveis à luz, mas não registram cor, nem contribuem para a visão central*
+
+Existem três tipos de cones que são especializados nos comprimentos de luz curtos, médios e longos, definindo a gama de cores que podemos ver.
 
 É importante saber como o olho funciona para atender suas necessidades e se aproveitar das limitações. 
 
@@ -24,6 +36,8 @@ O que são bastonetes e cones na retina?
 ## Modelo de Formação da Imagem usando Iluminação
 
 Função 2D de f(x, y), que é positiva e finita, ou seja maior que 0 e menor que o infinito. Essa função pode ser obtida por uma i(x, y)r(x, y), em que i é a intensidade de luz, e r a refletância, ou seja a quantidade de luz refletida pelos objetos.
+
+$f(x,y) = i.(x,y).r.(x,y)$
 
 Em convenção de coordenadas em uma imagem digital, se tem, começando em zero até n-1 tanto no eixo x, quanto no y, para os ambientes de programação se inicia no 1 até n.
 

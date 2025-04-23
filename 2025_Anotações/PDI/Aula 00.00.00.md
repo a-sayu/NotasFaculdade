@@ -1,0 +1,53 @@
+# Processamento Digital de Imagens
+
+Tags: #3_Ano #PDI 
+
+---
+
+[[Aula 25.02.19]] - Aula Introdutória sobre toda a Matéria.
+- [[Aula-01.pdf]]
+
+[[Aula 25.02.26]] - Fundamentos de Processamento de Imagens:
+- Interpolação
+- Relação entre Pixels
+- Operações Aritméticas
+- [[Aula-02.pdf]]
+
+[[Aula 25.03.05]] - Aula Prática
+
+[[Aula 25.03.12]] - Cores
+- RGB
+- HSV
+- Luminância
+- CMY, CMYK
+- [[Aula-03.pdf]]
+
+[[Aula 25.03.19]] - Realce no Espaço
+- Compressâo de Escala Dinâmica
+- Equalização
+- Máscaras
+- Operações baseadas em Vizinhança
+- [[Aula-07.pdf]] e [[Aula-08.pdf]]
+
+[[Aula 25.03.26]] - Realce a partir de Limiarização
+- Limiarização
+- Sharpening
+- Gradiente
+- Sobel
+- Normalização
+- [[Aula-09.pdf]] e [[Aula-10.pdf]]
+
+[[Aula 25.04.02]] - Domínio da Frequência sobre ruído Periódico
+- Série e Transformada de Fourier
+- [[Aula-11.pdf]] e [[Aula-12.pdf]]
+
+[[Aula 25.04.09]] - Filtros sobre a Transformada de Fourier
+- Butterworth
+- Gauss
+- High-Pass
+- High Boost
+- Homomorphic
+
+[[Aula 25.04.16]] - Aula Prática
+
+---

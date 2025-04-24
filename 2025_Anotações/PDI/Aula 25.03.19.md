@@ -4,92 +4,118 @@ Tag: #3_Ano #PDI
 
 ---
 
-Realce no Espaço
+## Realce no Espaço
 
-Realce é melhorar uma imagem com alguma finalidade específica, portanto fazer um processamento para essa finalidade.
+Realce é melhorar uma imagem com alguma finalidade específica, portanto fazer um processamento para essa finalidade. Nem sempre a ideia é tornala visualmente bonita, mas sim com intenções específicas como:
+- Análise Visual: melhorias visuais.
+- Análise Computacional: Realce de feições a serem extraídas.
 
-Duas formas de processamento, a partir de uma operação pontual ou por operação baseada em vizinhança.
+Processamentos podem ser feitos diretamente e individualmente com as informações de luminância ou para cada pixel considerar sua vizinhança.
+
+Podem ser mencionadas duas formas de processamento, a partir de uma operação pontual ou por operação baseada em vizinhança.
 
 ***
-Pontual
+
+## Operação Pontual
+
 Um ponto me interessa a cada momento.
 
-G(x,y) = T[f(x,y)]
+$G(x,y) = T[f(x,y)]$
 
-Exemplo de Transformações T.
+Uma transformação T opera em cada pixel, ele pode ser baseado em vizinhança.
 
-Binarização
-Em que abaixo de um tom será 0, e acima de outro será 1. Importante notar que o usuário que define como será a transformação.
+**Exemplo de Transformações T**:
 
-Imagens Negativas
+**Binarização**: Abaixo de um tom será 0, e acima de outro será 1. Importante notar que o usuário que define como será a transformação.
+
+**Imagens Negativas**: Se obtem invertendo os valores de nível de cinza.
 * Imagens Médicas
 * Construção de Slides a partir de negativos de filmes fotográficos
 * Evidenciar características não percebidas na imagem positiva.
 
-> *r é o tom original da imagem
+> *Para todos os cálculos, $r$ é o tom original da imagem*
 
-Compressão de Escala Dinâmica
+**Compressão de Escala Dinâmica**:
+
 Utiliza transformações logarítmicas, que conseguem melhorar a as quantidades de valores de formas mais claras.
-* S = c . log(1+r)
+* $S = c.\log(1+r)$
 
-Funções Potências
+**Funções Potências**:
+
 Vários dispositivos se captura impressão e visualização operam com respostas lineares.
-* S = c . r ^ y ou S = c . ( r + e ) ^ y
+* $S = c . r^\gamma$ ou $S = c . ( r + \varepsilon )^\gamma$
 
-Função de Transformação Linear por partes
+**Função de Transformação Linear por partes**:
+
 Se pode dar uma esticada nas cores para encontrar resultados agradáveis.
 
-Fatiamento de Tons de Cinza
+**Fatiamento de Tons de Cinza**:
+
 É possível criar funções que atendem uma especificação, portanto selecionando o que se deseja.
 
-Fatiamento de planos de bits
+**Fatiamento de planos de bits**:
+
 Imagine uma imagem, se eu pegar um determinado pixel, e ele é um byte, o primeiro bit define se ele é claro ou escuro, e o último demonstra o fino detalhe. Muitas vezes é possível remover bits de pouca importância para se ter uma imagem que ocupa menos espaço.
 
-Processamento de histograma, estatística da imagem
+**Processamento de histograma, estatística da imagem**:
+
 Ele conta a frequência de tons que se tem em uma imagem. Para ser analise para um computador, não importa muito a localização de tons, mas para o olho humano é importante.
 
-Equalização de Histogramas
+**Equalização de Histogramas**:
+
 Em que em uma imagem original, faz se uma operação pixel a pixel, tenha um histograma bem distribuído.
 
 Você pega todos os pontos, e calcula a frequência de cada tom, em seguida faz a frequência acumulada de cada tom. O valor então é calculado da seguinte maneira:
 
-máximo[ 0, round((tons_cinza * freq_acumulada)/(col * lin)) -1 ]
+$máximo[ 0, round(\frac{tonscinza * freqacumulada}{col * lin}) -1 ]$
 
-**Prática para final de Bimestre: equalização de imagens**
+#Trabalho **Prática para final de Bimestre: equalização de imagens**
+- Todos os trabalhos estão dentro de um único ambiente.
 
-Todos os trabalhos estão dentro de um único ambiente.
+**Especificação de Histogramas**:
 
-Especificação de Histogramas
 A equalização apenas garante o espaçamento adequado das cores, portanto é possível processar a imagem no sentido de atender um certo histograma estabelecido previamente
 
-Equalização de histogramas local
+**Equalização de histogramas local**:
+
 Propõe-se que se obterá um histograma apenas ao redor de um pixel, para cada pixel vc olha a vizinhança dele e se obtém um resultado "melhor".
 
-Mascaras AND e OR
+**Mascaras AND e OR**:
 
-Subtração de Imagens
-Demonstra a diferença entre as imagens, obtendo um contraste.
+**Subtração de Imagens**:
 
-Media de Imagens
+Demonstra a diferença entre as imagens, g(x,y) = f(x,y) - h(x,y), obtendo um contraste.
+
+**Media de Imagens**:
+
 Ele permite a remoção de ruído, pois ruido é algo aleatório, pois ele some na soma permitindo que ele perca por não ser grande coisa. É possível também usar uma mediana, portanto pegando só o que está no meio.
 
 ***
-Operação baseada em vizinhança
+## Operação baseada em vizinhança
 
-Filtragem Espacial - Mascara de Convolução
+**Filtragem Espacial - Mascara de Convolução**:
+
 A convolução de duas funções é uma integral, em que ela irá calcular uma área entre essas curvas, a cada momento.
 
-Convolução em Imagens
-Somatória da multiplicação com um filtro g, deslocando um único pixel até chegar no último
+$\int_{-\infty}^{\infty} f(\alpha).g(x-\alpha)\,d\alpha$
 
-Filtro da Média
+**Convolução em Imagens**:
+
+Somatória da multiplicação com um filtro g, deslocando um único pixel até chegar no último.
+$\sum_{-\infty}^{\infty}f(\alpha).g(x-\alpha)\,d\alpha$
+
+**Filtro da Média**:
 * Filtro passa baixa
+
 Ele calcula a média, somando 5 pixels e divide por 5, sendo a vizinhança-4, é possível também usar a vizinhança-8, suavizando imagens, eliminando ou atenuando ruídos. Em efeito colateral, a imagem fica borrada.
 
-Filtro da Mediana
+**Filtro da Mediana**:
+
 É mais interessante, pois a média pode estourar por conta de valores fora do comum, a mediana vai pegar o que está ao meio de uma ordenação do pixel e da vizinhança-8 e selecioná-lo.
 
-Prática: Implementar filtro de Média e Mediana. Com 10% de ruído sal e pimenta.
+---
+
+#Trabalho Prática: Implementar filtro de Média e Mediana. Com 10% de ruído sal e pimenta.
 
 ```
 tamanho = largura*altura;

@@ -128,11 +128,11 @@ Seja uma cor definida pelo modelo HSV, H variando entre 0 à 360, S e V variando
 4. $m = V-C$
 5. (R', G', B')
 	- $0 \leq H < 60$, (C, X, 0)
-	- $0 \leq H < 60$, (X, C, 0)
-	- $0 \leq H < 60$, (0, C, X)
-	- $0 \leq H < 60$, (0, X, C)
-	- $0 \leq H < 60$, (X, 0, C)
-	- $0 \leq H < 60$, (C, 0, X)
+	- $60 \leq H < 120$, (X, C, 0)
+	- $120 \leq H < 180$, (0, C, X)
+	- $180 \leq H < 240$, (0, X, C)
+	- $240 \leq H < 300$, (X, 0, C)
+	- $300 \leq H < 360$, (C, 0, X)
 6. (R,G,B) = $((R' + m).255, (G' + m).255, (B' + m).255)$
 
 **Conversão RGB para HSV**:

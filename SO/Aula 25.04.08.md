@@ -1,5 +1,9 @@
 # Sistemas Operacionais II
 
+Tags: #3_Ano #SO #SOII
+
+---
+
 Devolutiva da questão 31. Aula de hoje será a solução do problema 32, que é diretamente relacionado ao problema 31. Até da para juntar as duas questões, mas pode complicar o trabalho pela maior demanda de criatividade. Haverá uma devolutiva complementar sobre as chamadas do sistema ou na próxima aula, ou na semana que vêm.
 
 Os processos de usuario não controlam diretamente o recurso, pois se fizessem isso, eles monopolizariam os recursos, então uma maneira de evitar o monopólio, é fazer com que a alocação de recursos e projetos seja controlado pelo núcleo do sistema operacional, e quando um processo precisa de um determinado recurso ele precisa solicitar ao núcleo no sistema operacional, e essa solicitação, formal, é chamada de chamada do sistema.

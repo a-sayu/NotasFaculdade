@@ -5,11 +5,15 @@ Tags:  #3_Ano #BD #BDI
 ---
 
 [[Banco de Dados I]]
-[[Aula 25.02.24]]
-[[2025_Anotações/BD/Aula 25.02.25|Aula 25.02.25]] - Modelo Entidade-Relacionamento
+[[Aula 25.02.24]] - Aula 1
+[[2025_Anotações/BD/Aula 25.02.25|Aula 25.02.25]] - Aula 2
 [[Aula 25.03.10]]
-[[2025_Anotações/BD/Aula 25.03.11|Aula 25.03.11]]
+[[2025_Anotações/BD/Aula 25.03.11|Aula 25.03.11]] 
 [[2025_Anotações/BD/Aula 25.03.17|Aula 25.03.17]]
+[[Aula 25.03.24]]
+[[2025_Anotações/BD/Aula 25.03.25|Aula 25.03.25]]
 [[2025_Anotações/BD/Aula 25.03.31|Aula 25.03.31]]
 [[Aula 25.04.01]]
+[[2025_Anotações/BD/Aula 25.04.07|Aula 25.04.07]]
+[[Aula 25.04.14]]
 [[Aula 25.04.15]]

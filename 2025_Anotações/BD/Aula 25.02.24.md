@@ -37,6 +37,8 @@ Exercício
 
 ---
 
+## Resumo Aula 1
+
 **Dado**: Representação da Informação, a informação não-tratada, um conjunto de letras, números ou dígitos que colocados isoladamente, não contem significado claro.
 > *Uma simples observação*
 
@@ -55,4 +57,16 @@ Uma coleção de dados relacionados, ele representa algum aspecto do mundo real 
 - Público com interesse nos dados do Banco
 
 **SGBD**:
-Coleção de Programas que permite aos usuários criar e manter um banco de dados.
+Coleção de Programas que permite aos usuários criar e manter um banco de dados, facilitando os processos de definição, construção, manipulçõ e compartilhamento de bancos de dados.
+
+**Terminologia Básica**:
+- Campo: Atributo
+- Registro: Tupla
+- Arquivo: Tabela ou Relação
+- Domínio: Conteúdo da Relação
+
+**Esquema**: É a descrição do banco de dados, sendo definido no projeto e não espera ser alterado, equivalente ao tipo de dados.
+
+**Instância**: É o banco de dados, sendo o equivalente a declaração de uma variável do tipo definido e seu valor.
+
+---

@@ -1,5 +1,7 @@
 Tag: #3_Ano #BD #BDI
 
+---
+
 Realizar a leitura do capítulo 1 do Silvershatz
 
 O que é um requisito:
@@ -32,3 +34,25 @@ Arquitetura de Banco de Dados
 
 Exercício
 * pág. 43
+
+---
+
+**Dado**: Representação da Informação, a informação não-tratada, um conjunto de letras, números ou dígitos que colocados isoladamente, não contem significado claro.
+> *Uma simples observação*
+
+**Informação**: Qualquer fato ou conhecimento do mundo real que não pode ser registrado/armazenado.
+>*Dados com relevância e propósito*
+
+**Conhecimento**: Quando uma informação é trabalhado por pessoas e pelos recursos computacionais.
+- Tácito: aquele que é pessoal e difícil de ser formulado/comunicado.
+- Explícito: Aquele que já está 
+>*Reflexão, Síntese, Contexto*
+
+**Banco de Dados**:
+Uma coleção de dados relacionados, ele representa algum aspecto do mundo real a qual é chamado de minimundo ou universo de discurso.
+- Fonte de Dados
+- Interação com o Mundo Real
+- Público com interesse nos dados do Banco
+
+**SGBD**:
+Coleção de Programas que permite aos usuários criar e manter um banco de dados.

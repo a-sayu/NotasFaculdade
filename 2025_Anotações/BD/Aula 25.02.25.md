@@ -1,5 +1,7 @@
 Tag: #3_Ano #BD #BDI
 
+---
+
 Modelo Entidade-Relacionamento
 
 Desenvolvido por Chen em 1976.
@@ -24,3 +26,8 @@ Retângulo: Conjunto de Entidades
 Elipse: Atributo
 
 Leitura: Almanaque, Material Complementar
+
+---
+
+**Diagrama Entidade-Relacionamento**
+Modelagem Conceitual de Banco de Dados com Diagrama ER, descrevendo as entidades que são coisas/objetos e a suas relações.

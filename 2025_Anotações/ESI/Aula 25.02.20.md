@@ -7,7 +7,6 @@ Tags: #3_Ano #Es #ESI
 Não existe uma **única maneira** de fazer software, como foi falado, não existe uma Panaceia.
 
 > **Panaceia:** *Mecanismos ou práticas que, hipoteticamente, são capazes de solucionar os problemas e/ou dificuldades.* Definição dada por [Dicio](https://www.dicio.com.br/panaceia/)
-
 ## Software
 
 **Software** é desenvolvido ou projetado por engenharia, não manufaturado no sentido clássico, não desgasta, mas deteriora com as mudanças do mundo.

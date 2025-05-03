@@ -18,4 +18,4 @@ Aula de hoje é relativo às soluções sobre as questões 37 e 38.
 
 ---
 
-Na sexta-feira será feita a devlutiva dessas questões. Próxima questão será a questão 47, logo após retornaremos à questão 39. Algumas questões serão descartadas.
+Na sexta-feira será feita a devolutiva dessas questões. Próxima questão será a questão 47, logo após retornaremos à questão 39. Algumas questões serão descartadas.

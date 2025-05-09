@@ -2,6 +2,8 @@
 
 Tag: #3_Ano #ES #ESI 
 
+---
+
 Temos agora que evoluir para o construir, transição do Scrum para o método Larman.
 
 Aperfeiçoar o plano é a última atividade de planejar e elaborar, fazendo um link com Construir em Refinar.

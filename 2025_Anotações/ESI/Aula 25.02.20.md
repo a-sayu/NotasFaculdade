@@ -1,5 +1,7 @@
 # Engenharia de Software I
 
+---
+
 Tags: #3_Ano #Es #ESI 
 
 ---
@@ -79,8 +81,91 @@ O processo de Software abrange três elementos fundamentais:
 - Ferramentas: **suporte** para os métodos.
 - Procedimentos: o elo entre métodos e ferramentas, com a sequencia, exigências, controle de qualidade e marcos de referência.
 
-**ISO 12207**
+**ISO 12207:**
 ![[ISO12207.png]]
 *No Pressman, a estrutura apresentada como processo de software é na verdade a unidade de desenvolvimento de software*
+
+> *A ISO/IEC 12207 é a norma que define processo de Engenharia de Software, atividdes e tarefas que são associados com os processos do ciclo de vida do software desde a sua concepção até a retirada/descontinuação do software.*
+
+**Processo de Software com Qualidade:**
+
+Eficiente, Definido, Gerenciado, Medido, Controlado. Potencial para crescimento e consistência que ele é aplicado em projetos por toda a organização.
+- Inteligibilidade
+- Visibilidde
+- Suportabilidade
+- Aceitabilidade
+- Confiabilidade
+- Robustez
+- Manutenibilidade
+- Velocidade
+
+**Fases Genéricas dos Modelos de Processos de Engenharia:**
+1. Especificação
+2. Projeto
+3. Implementação
+4. Teste
+5. Instalação
+6. Manutenção
+
+**Fases Genéricas dos Modelos de Processo de Software:**
+1. Definição
+2. Desenvolvimento
+3. Manutenção
+4. Atividades de Apoio
+
+### Fase de Definição
+
+> *"O que"*
+
+Ocorrem três tarefas principais: engenharia de sistemas, planejamento do projeto de software e aanálise de requisitos.
+
+Informação processada, Função e Desempenho, Comportamento Esperado, Interface, Restrições Existentes, Critérios de Validação e Tarefas realizadas.
+
+### Fase de Desenvolvimento
+
+> *"Como"*
+
+As três tarefas técnicas que devem ocorrer: projeto de software, geração de código, inspeção e teste de software.
+
+Estrutura dos Dados, Implementação da Função como arq de software, Caracterização de Interfaces, Detalhes, Tradução para uma Linguagem, Efetuação de testes.
+
+### Fase de Manutenção
+
+> *"Mudanças"*
+
+Associada com: Correções, Adaptações e Melhoramentos.
+
+Reaplica-se os passos das fases anteriores, mas faz com o contexto do software já existente.
+### Apoio
+
+Essas três fases são complementadas por uma série de atividades de apoio que são plicadas durante toda a engenharia de software:
+- Controle e Acompanhamento do Projeto de Software
+- Revisões Técnicas Formais
+- Garantia de Qualidade de Software
+- Gerenciamento de Configuração de Software
+- Preparação e Produção de Documentos
+- Gerenciamento de Reusabilidade
+- Medidas
+
+---
+
+### Modelos de Processo de Desenvolvimento
+
+Cascata: Sequencial Linear
+- Faz-se tudo de uma fase para dar entrada em outra.
+
+Prototipação
+- Conforme a requisição elaborar um projeto rápido e um protótipo para refiná-lo e obter mais requisitos e detalhamento, para ao ser identificado todos os requisitos, descarta-se o protótipo e constrói-se seguindo os critérios de qualidade.
+
+RAD: Rapid Application Development
+- É um modelo sequencial linear que enfatiza o ciclo de desenvolvimento, baseado em componentes. E ao final une-se todos os componentes para formar o produto final.
+
+Evolutivos: Incremental, Espiral, Montagem de Componentes
+- Incremental: Cascata + Prototipação.
+- Espiral: Um loop de cascata com a ideia da prototipação, sem fases fixas.
+- Montagem de Componentes: Classes orientadas a objetos são reutilizáveis em diferentes arquiteturas de sistema.
+
+Quarta Geração
+- Especificar o software a uma máquina em um nível próximo a linguagem natural.
 
 (... 🚧 ...)

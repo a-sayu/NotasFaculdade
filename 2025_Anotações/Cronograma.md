@@ -14,7 +14,7 @@ Tag: #3_Ano #provas_3
 - [x] 04.23 : P1 : Processamento Digital de Imagens
 - [x] 04.28 : P1 : Banco de Dados I
 - [x] 04.28 : P1 : Probabilidade e Estatística I
-- [ ] 05.12 : P1 : Engenharia de Software I
+- [x] 05.12 : P1 : Engenharia de Software I
 - [ ] 05.15 : P1 : Redes de Computadores I
 - [ ] 05.31 : TT : Sistemas Operacionais II - Entrega do Jogo
 - [ ] 06.16 : P2 : Banco de Dados I

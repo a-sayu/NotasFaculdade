@@ -1,8 +1,17 @@
 # Jogo
 
+---
+
 Tag: #SO 
 
+---
+
+## Acerca do jogo
+
 Tema: Uma simulador de namoro entre um robô e uma pessoa, em que basicamente a máquina associa o seu próprio funcionamento do sistema operacional com os sentimentos que o ser humano sente.
+
+**Tema:** 
+## Sistemas Operacionais I
 
 Primeira Fase: Questões **8** e **9** : O ato de ligar o computador e ter o sistema operacional armazenado na memória secundária
 
@@ -20,8 +29,6 @@ Sétima Fase: Questão **15** : O que é um Processo?
 
 Oitava Fase: Questão **16** : Qual a relação de Processo com o Sistema Operacional e os Programas?
 
-***
-
 Nona Fase: Questão **17** :  Relação entre Memória RAM, SO e Programas de Usuário?
 
 Décima Fase: Questão **18** : Qual a importância de armazenar o SO e os programas de usuário na memória RAM
@@ -29,6 +36,8 @@ Décima Fase: Questão **18** : Qual a importância de armazenar o SO e os progr
 Décima Primeira Fase: Questão **19** : Como organizar o armazenamento na memória RAM?
 
 ***
+
+## Sistemas Operacionais II
 
 Décima Segunda Fase: Questão **20** : Partições de Tamanho Fixo, Partições de Tamanho Variável. Fragmentação Interna e Fragmentação Externa.
 

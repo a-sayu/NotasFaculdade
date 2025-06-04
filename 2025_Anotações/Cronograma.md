@@ -19,7 +19,7 @@ Tag: #3_Ano #provas_3
 - [ ] 06.02 : TT : Sistemas Operacionais II - Entrega do Jogo
 - [ ] 06.16 : P2 : Banco de Dados I
 - [ ] 06.17 : P1 : Sistemas Operacionais II
-- [ ] 06.17 : T1 : Banco de Dados I
+- [ ] 06.17 : [[2025_Anotações/BD/Projeto Semestral|T1]] : Banco de Dados I
 - [ ] 06.18 : P2 : Processamento Digital de Imagens
 - [ ] 06.25 : P3 : Processamento Digital de Imagens
 - [ ] 06.30 : EX : Banco de Dados I

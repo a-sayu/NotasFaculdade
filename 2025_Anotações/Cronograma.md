@@ -16,10 +16,10 @@ Tag: #3_Ano #provas_3
 - [x] 04.28 : P1 : Probabilidade e Estatística I
 - [x] 05.12 : P1 : Engenharia de Software I
 - [x] 05.15 : P1 : Redes de Computadores I
-- [ ] 05.31 : TT : Sistemas Operacionais II - Entrega do Jogo
+- [ ] 06.02 : TT : Sistemas Operacionais II - Entrega do Jogo
 - [ ] 06.16 : P2 : Banco de Dados I
 - [ ] 06.17 : P1 : Sistemas Operacionais II
-- [ ] 06.17 : T1 : Banco de Dados I
+- [ ] 06.17 : [[2025_Anotações/BD/Projeto Semestral|T1]] : Banco de Dados I
 - [ ] 06.18 : P2 : Processamento Digital de Imagens
 - [ ] 06.25 : P3 : Processamento Digital de Imagens
 - [ ] 06.30 : EX : Banco de Dados I

@@ -1,19 +1,22 @@
+# Iniciação Científica
+
 Viabilidade e Eficácia de LLM na geração automática de código Java funcional apartir de requisitos funcionais do sistema.
 
-1. Como verificamos a viabilidade e eficácia de LLMs?2. O que seria java funcional?
-1.1 Complexidade e custo associado ã tradução manual de requisitos funcionais. Tradução Manual = Humana?
+1. Como verificamos a viabilidade e eficácia de LLMs?
+	1. Complexidade e custo associado ã tradução manual de requisitos funcionais. Tradução Manual = Humana?
+2. O que seria java funcional?
 3. O que são requisitos funcionais?
 4. Geração automática seria vibe coding?
 5. Qual LLM? 
-5.1 Diferentes LLMs, mas quais?
-5.1.1 Possivel Resposta: ChatGPT, Gemini e Lllama 3
+	1. Diferentes LLMs, mas quais?
+		1. Possivel Resposta: ChatGPT, Gemini e Lllama 3
 6. O que é LLM?
 
 Avaliar a qualidade, correção e conformidade do código gerado, otimizando a transição de requisitos para implementação.
 
 1. Novamente, como iremos avaliar a qualidade?
-1.1 Métricas de Avaliação, mas quais?
-1.1.1 Testes unitários?
+	1. Métricas de Avaliação, mas quais?
+		1. Testes unitários?
 2. Com correção e conformidade, estamos falando do custo de correção sobre o código gerado em conformidade com os requisitos funcionais?
 3. Como otimizar a transição?
 4. Como perceber a otimização? Questão é de como o desenvolvedor pode melhorar um código feito por LLM?
@@ -44,6 +47,6 @@ Previsões iniciais de uma pessoa sem conhecimento nenhum além de internetes:
 
 Evaluating large language models trained on code -> real
 Code generation from natural language with large language models - dubious
-Large lnaguage models for code generation: A systematic review - dubious
+Large language models for code generation: A systematic review - dubious
 A empirical study on the effectiveness of large language models for code generation - dubious
 A compregensive survey on large language models for software engineering - dubious

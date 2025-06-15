@@ -6,6 +6,10 @@
 
 ![[Pasted image 20250611115612.png]]
 
+![[Pasted image 20250611115657.png]]
+
+![[Pasted image 20250615102443.png]]
+
 ![[Pasted image 20250611115626.png]]
 
 ## Prática
@@ -13,8 +17,6 @@
 ![[Pasted image 20250611115917.png]]
 
 ![[Pasted image 20250611115727.png]]
-
-![[Pasted image 20250611115657.png]]
 
 ![[Pasted image 20250611115739.png]]
 

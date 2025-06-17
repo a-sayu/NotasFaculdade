@@ -6,9 +6,13 @@ Tags: #3_Ano #SO #SOII
 
 ---
 
+Questão 45: Problema: nossa empresa espera que você seja capaz de explicar a diferença entre um programa ser executado no modo núcleo e outro ser executado no modo usuário.
+
 **Devolutiva da Questão 45**: Tudo que é do núcleo do sistema operacional roda em modo protegido  modo nucleo modo supervisor, portanto somente programas especificos do nucleo do programa operacional podem acessar determinado superconjunto de programas da maquina reservados para atividades especiais, chamadas críticas, e por isso so o nucleo do sistema operacional tem acesso a esse subconjunto de instruções, todas as demais instruções da maquina que não são consideradas criticas podem ser acessadas pelos demais programas.
 
 A última questão 46.
+
+Questão 46: Problema: com base na observação do slide intitulado “Unidade de Gerência de Memória”, deduza o que a MMU faz.
 
 **Devolutiva da Questão 46**: O que estudaremos mesmo é a configuração interna de uma MMU (Unidade de gerenciamento de memória), ou seja, nosso foco principal para esse problema está na MMU. A MMU, apesar de ser estudada em SO, ela poderia ter sido estudada na disciplina arquitetura de computadores, pois tudo que esta sendo visto, costuma-se ser implementado em hardware, pois é uma unidade funcional que auxilia o computador em relação a gerencia de memória.
 

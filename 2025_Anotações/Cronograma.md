@@ -19,12 +19,12 @@ Tag: #3_Ano #provas_3
 - [x] 06.13 : TT : Sistemas Operacionais II - Entrega do Jogo
 - [x] 06.16 : T2 : Engenharia de Software I - Segunda Entrega
 - [x] 06.16 : TT : Processamento Digital de Imagens
-- [ ] 06.17 : P1 : Sistemas Operacionais II
-- [ ] 06.17 : [[2025_Anotações/BD/Projeto Semestral|T1]] : Banco de Dados I
+- [x] 06.17 : P1 : Sistemas Operacionais II
 - [ ] 06.18 : P2 : Processamento Digital de Imagens
-- [ ] 06.25 : P3 : Processamento Digital de Imagens
-- [ ] 06.30 : P2 : Banco de Dados I
 - [ ] 06.23 : P2 : Engenharia de Software I
+- [ ] 06.24 : T1 : Banco de Dados I
+- [ ] 06.25 : P3 : Processamento Digital de Imagens
 - [ ] 06.26 : TF : Engenharia de Software I - Entrega Final
+- [ ] 06.30 : P2 : Banco de Dados I
 - [ ] 07.01 : P2 : Sistemas Operacionais II
 - [ ] 07.02 : EX : Processamento Digital de Imagens

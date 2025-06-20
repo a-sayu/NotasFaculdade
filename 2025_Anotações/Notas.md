@@ -21,7 +21,7 @@ Tag: #3_Ano #provas_3
 |                                  | P2            |          |
 | =====================            | ============= | =====    |
 | Processamento Digital de Imagens | P1, T1        | 4,6      |
-|                                  | P2, T2        |          |
+|                                  | P2, T2        | 2,7      |
 |                                  | P3            |          |
 | =====================            | ============= | =====    |
 | Sistemas Operacionais II         | P1            |          |

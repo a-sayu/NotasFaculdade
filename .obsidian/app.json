@@ -4,5 +4,6 @@
   "newFileLocation": "current",
   "spellcheck": false,
   "strictLineBreaks": true,
-  "attachmentFolderPath": "./Anexos"
+  "attachmentFolderPath": "./Anexos",
+  "showInlineTitle": false
 }

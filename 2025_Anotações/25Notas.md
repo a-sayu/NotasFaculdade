@@ -1,12 +1,18 @@
 # Anotações de 2025
 
 ## Primeiro Semestre
-## Segundo Semestre
 
 **Notas Revisadas**
 
 **Notas Completas**
 
+**Notas Incompletas**
+
+## Segundo Semestre
+
+**Notas Revisadas**
+
+**Notas Completas**
 
 **Notas Incompletas**
 [[BDII25-07-28]] +

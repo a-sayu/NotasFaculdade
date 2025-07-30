@@ -1,5 +1,7 @@
 # Iniciação Científica
 
+Tags: #3_Ano
+
 Viabilidade e Eficácia de LLM na geração automática de código Java funcional apartir de requisitos funcionais do sistema.
 
 1. Como verificamos a viabilidade e eficácia de LLMs?

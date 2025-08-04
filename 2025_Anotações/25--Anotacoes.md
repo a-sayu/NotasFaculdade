@@ -24,6 +24,38 @@
 [[25-I-BDI-05.06|25-I-BDI-05.06]]
 [[25-I-BDI-05.19|25-I-BDI-05.19]]
 [[25-I-BDI-06.02]]
+[[25-I-ESI-02.17]] - Livros e Aula Introdutória
+[[25-I-ESI-02.20]] - Introdução à Engenharia de Software
+[[25-I-ESI-02.27]] - Gerenciamento de Configuração de Software
+[[25-I-ESI-03.13]] - Branch (Aula 2) e Engenharia de Requisitos
+[[25-I-ESI-03.17|25-I-ESI-03.17]] - Documento de Requisitos
+[[25-I-ESI-03.20]] - Método Larman e Casos de Uso de Alto Nível e Expandido
+[[25-I-ESI-03.25|25-I-ESI-03.25]] - Diagrama de Casos de Uso e Modelo Conceitual
+[[25-I-ESI-03.27|25-I-ESI-03.27]] - Refinar Modelo Conceitual, Diagrama de Sequência, Diagrama de Estado. (P1)
+[[25-I-ESI-03.31|25-I-ESI-03.31]] - UML e Astah
+[[25-I-ESI-04.07|25-I-ESI-04.07]] - Diagrama de Sequencia e Introdução à Diagramas de Colaboração
+[[25-I-ESI-04.10]] - Responsabilidade e Diagrama de Colaboração
+[[25-I-ESI-04.17|25-I-ESI-04.17]] - Diagrama de Classes
+[[25-I-ESI-05.19]] - Padrões de Projeto
+[[25-I-ESI-05.22|25-I-ESI-05.22]] - Qualidade de Software
+[[25-I-ESI-05.26]] - Teste de Software
+[[25-I-PDI-02.19]] - Aula Introdutória sobre toda a Matéria.
+[[25-I-PDI-02.26]] - Fundamentos de Processamento de Imagens:
+[[25-I-PDI-03.05]] - Aula Prática
+[[25-I-PDI-03.12]] - Cores
+[[25-I-PDI-03.19]] - Realce no Espaço
+[[25-I-PDI-03.26]] - Realce a partir de Limiarização
+[[25-I-PDI-04.02]] - Domínio da Frequência sobre ruído Periódico
+[[25-I-PDI-04.09]] - Filtros sobre a Transformada de Fourier
+[[25-I-PDI-04.16]] - Aula Prática
+[[25-I-PDI-05.28]] - Transformada de Hough
+[[25-I-PDI-06.04]] - Fronteira
+[[25-I-RCI-03.27]]
+[[25-I-RCI-04.03]]
+[[25-I-RCI-04.17|25-I-RCI-04.17]]
+[[25-I-RCI-04.24]]
+[[25-I-RCI - Trabalho 2]] - Atividade 2
+[[25-I-RCI-05.22|25-I-RCI-05.22]]
 
 ## Segundo Semestre
 

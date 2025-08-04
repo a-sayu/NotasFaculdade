@@ -8,7 +8,7 @@ Tags: #3_Ano #RC #RCI
 [[25-I-RCI-04.03]]
 [[25-I-RCI-04.17|25-I-RCI-04.17]]
 [[25-I-RCI-04.24]]
-[[25-I-RCI-00.00 - Trabalho 2]] - Atividade 2
+[[25-I-RCI - Trabalho 2]] - Atividade 2
 [[25-I-RCI-05.22|25-I-RCI-05.22]]
 
 [[Aula1.1.pdf|Aula1.1]] - Topologia e Básico de Redes de Computadores

@@ -49,7 +49,7 @@ Tags: #3_Ano #PDI
 - Homomorphic
 
 [[25-I-PDI-04.16]] - Aula Prática
-[[Aula 25.05.23]]
+[[25-I-PDI-05.23]]
 [[Aula 25.04.30]]
 [[Aula 25.05.07]]
 [[Aula 25.05.14]]
@@ -76,5 +76,5 @@ Tags: #3_Ano #PDI
 
 ---
 
-[[25-I-PDI-00.00 P2 Exercícios|25-I-PDI-00.00 P2 Exercícios]]
-[[25-I-PDI-00.00 P2 Conteúdo|Conteúdo da Prova 2]]
+[[25-I-PDI P2 Exercícios|25-I-PDI P2 Exercícios]]
+[[25-I-PDI P2 Conteúdo|Conteúdo da Prova 2]]

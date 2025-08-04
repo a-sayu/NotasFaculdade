@@ -43,19 +43,19 @@ Com base nas relações obtidas no mapeamento ou normalização, especificar 10 
 Implementação da base de dados: Criação, Alimentação e Consultas.
 
 ****
-[[25-I-BDI-02.24]] - Aula 1
-[[25-I-BDI-02.25|25-I-BDI-02.25]] - Aula 2
-[[25-I-BDI-03.10]]
-[[25-I-BDI-03.11|25-I-BDI-03.11]] 
-[[25-I-BDI-03.17|25-I-BDI-03.17]]
-[[25-I-BDI-03.24]]
-[[25-I-BDI-03.25|25-I-BDI-03.25]]
-[[25-I-BDI-03.31|25-I-BDI-03.31]]
-[[25-I-BDI-04.01]]
-[[25-I-BDI-04.07|25-I-BDI-04.07]]
-[[25-I-BDI-04.14]]
-[[25-I-BDI-04.15]]
-[[25-I-BDI-05.05]]
-[[25-I-BDI-05.06|25-I-BDI-05.06]]
-[[25-I-BDI-05.19|25-I-BDI-05.19]]
-[[25-I-BDI-06.02]]
+[[25-I-BDI-02-24]] - Aula 1
+[[25-I-BDI-02-25|25-I-BDI-02-25]] - Aula 2
+[[25-I-BDI-03-10]]
+[[25-I-BDI-03-11|25-I-BDI-03-11]] 
+[[25-I-BDI-03-17|25-I-BDI-03-17]]
+[[25-I-BDI-03-24]]
+[[25-I-BDI-03-25|25-I-BDI-03-25]]
+[[25-I-BDI-03-31|25-I-BDI-03-31]]
+[[25-I-BDI-04-01]]
+[[25-I-BDI-04-07|25-I-BDI-04-07]]
+[[25-I-BDI-04-14]]
+[[25-I-BDI-04-15]]
+[[25-I-BDI-05-05]]
+[[25-I-BDI-05-06|25-I-BDI-05-06]]
+[[25-I-BDI-05-19|25-I-BDI-05-19]]
+[[25-I-BDI-06-02]]

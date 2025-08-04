@@ -5,13 +5,13 @@ Tags: #3_Ano #PDI
 ---
 
 [[25-I-PDI-02-19]] - Aula Introdutória sobre toda a Matéria.
-- [[Aula-01.pdf]]
+- [[PDI-Aula-01.pdf]]
 
 [[25-I-PDI-02-26]] - Fundamentos de Processamento de Imagens:
 - Interpolação
 - Relação entre Pixels
 - Operações Aritméticas
-- [[Aula-02.pdf]]
+- [[PDI-Aula-02.pdf]]
 
 [[25-I-PDI-03-05]] - Aula Prática
 
@@ -20,14 +20,14 @@ Tags: #3_Ano #PDI
 - HSV
 - Luminância
 - CMY, CMYK
-- [[Aula-03.pdf]]
+- [[PDI-Aula-03.pdf]]
 
 [[25-I-PDI-03-19]] - Realce no Espaço
 - Compressâo de Escala Dinâmica
 - Equalização
 - Máscaras
 - Operações baseadas em Vizinhança
-- [[Aula-05-1.pdf]] e [[Aula-05-2.pdf]]
+- [[PDI-Aula-05-1.pdf]] e [[PDI-Aula-05-2.pdf]]
 
 [[25-I-PDI-03-26]] - Realce a partir de Limiarização
 - Limiarização
@@ -35,11 +35,11 @@ Tags: #3_Ano #PDI
 - Gradiente
 - Sobel
 - Normalização
-- [[Aula-05-3.pdf]] e [[Aula-05-4.pdf]]
+- [[PDI-Aula-05-3.pdf]] e [[PDI-Aula-05-4.pdf]]
 
 [[25-I-PDI-04-02]] - Domínio da Frequência sobre ruído Periódico
 - Série e Transformada de Fourier
-- [[Aula-06-1.pdf]] e [[Aula-06-2.pdf]]
+- [[PDI-Aula-06-1.pdf]] e [[PDI-Aula-06-2.pdf]]
 
 [[25-I-PDI-04-09]] - Filtros sobre a Transformada de Fourier
 - Butterworth
@@ -57,22 +57,22 @@ Tags: #3_Ano #PDI
 [[25-I-PDI-05-28]] - Transformada de Hough
 [[25-I-PDI-06-04]] - Fronteira
 
-- [[Aula-06-3.pdf]]
-- [[Aula-07.pdf]]
-- [[Aula-08-1.pdf]]
-- [[Aula-08-2.pdf]]
-- [[Aula-08-3.pdf]]
-- [[Aula-09-1.pdf]]
-- [[Aula-09-1A.pdf]]
-- [[Aula-09-2.pdf]]
-- [[Aula-09-2A.pdf]]
-- [[Aula-09-3.pdf]]
-- [[Aula-10-1.pdf]]
-- [[Aula-10-2.pdf]]
-- [[Aula-10-3.pdf]]
-- [[Aula-11-1.pdf]]
-- [[Aula-11-2.pdf]]
-- [[Aula-12.pdf]]
+- [[PDI-Aula-06-3.pdf]]
+- [[PDI-Aula-07.pdf]]
+- [[PDI-Aula-08-1.pdf]]
+- [[PDI-Aula-08-2.pdf]]
+- [[PDI-Aula-08-3.pdf]]
+- [[PDI-Aula-09-1.pdf]]
+- [[PDI-Aula-09-1A.pdf]]
+- [[PDI-Aula-09-2.pdf]]
+- [[PDI-Aula-09-2A.pdf]]
+- [[PDI-Aula-09-3.pdf]]
+- [[PDI-Aula-10-1.pdf]]
+- [[PDI-Aula-10-2.pdf]]
+- [[PDI-Aula-10-3.pdf]]
+- [[PDI-Aula-11-1.pdf]]
+- [[PDI-Aula-11-2.pdf]]
+- [[PDI-Aula-12.pdf]]
 
 ---
 

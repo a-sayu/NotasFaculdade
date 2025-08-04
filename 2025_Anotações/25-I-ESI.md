@@ -40,5 +40,5 @@ Tags: #3_Ano #ES #ESI
 
 **Estudos**:
 - [[25-I-ESI-05-1Entrega|Primeira Entrega]] do Trabalho e conteúdo da Prova
-- [[25-I-ESI-06-Leitura Adicional|Leitura Adicional]] do livro [[Introdução ao Teste de Software (Marcio Eduardo Delamaro).pdf|Introdução ao Teste de Software]]
+- [[25-I-ESI-06-Leitura Adicional|Leitura Adicional]] do livro [[25-I-ESI-Introdução ao Teste de Software (Marcio Eduardo Delamaro).pdf|Introdução ao Teste de Software]]
 - [[25-I-ESI-06-2Entrega|Segunda Entrega]] do Trabalho

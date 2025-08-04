@@ -44,7 +44,7 @@ Problema: Identifique quais são as duas principais funções de qualquer sistem
 
 Resposta: Máquina virtual ou máquina estendida (base para a programação), e Gerente de Recursos (possibilita o uso adequado de recursos).  
 
-**Questão 6**: [[Aula 24.09.16]]
+**Questão 6**: [[24-II-09.16]]
 
 Contexto: A FCT designou a sua equipe para desenvolver um novo sistema operacional “a partir do zero” para certo sistema de computação.
 
@@ -52,25 +52,25 @@ Problema: você deve identificar o "PONTO DE PARTIDA" DO PROJETO, ou seja, POR O
 
 Resposta: Pela definição dos principais componentes do SO  
 
-**Questão 7**: [[Aula 24.09.16]]
+**Questão 7**: [[24-II-09.16]]
 
 Problema: identifique quantos e quais são os principais componentes de qualquer sistema operacional  
 
 Resposta: Quatro Componentes: Escalonador de processos e threads, Gerente de memória, Sistema de arquivo, Software de entrada e saída.  
 
-**Questão 8**: [[Aula 24.09.18]]
+**Questão 8**: [[24-II-09.18]]
 
 Problema: Mesmo quando um computador está desligado, o seu sistema operacional e os seus programas de usuário permanecem armazenados em um dos seus recursos. Identifique o recurso.  
 
 Resposta: SSD ou HD  
 
-**Questão 9**: [[Aula 24.09.18]]
+**Questão 9**: [[24-II-09.18]]
 
 Problema: tendo os conceitos de Arquitetura de Computadores em mente, você precisa explicar para os membros da sua equipe qual é a importância do sistema operacional e dos dois programas de usuário serem armazenados no disco rígido ou em outra memória secundária qualquer.  
 
 Resposta:  Quatro Componentes: Escalonador de processos e threads, Gerente de memória, Sistema de arquivo, Software de entrada e saída.
 
-**Questão 10**: [[Aula 24.10.16]]
+**Questão 10**: [[24-II-10.16]]
 
 Contexto: Assim que o computador é ligado,  
 
@@ -78,7 +78,7 @@ Problema: você precisa descrever resumidamente cada uma das atividades que acon
 
 Resposta:  Verifica o setup, faz o POST, descompacta dados, lê dispositivos de armazenamento e carrega o sistema operacional; BIOS; ROM.
 
-**Questão 11**: [[Aula 24.10.14]] [[Aula 24.10.16]]
+**Questão 11**: [[24-II-10.14]] [[24-II-10.16]]
 
 Contexto: Imediatamente antes de encerrar a sua execução, o BIOS da FCTarc13 realiza duas tarefas.  
 
@@ -86,7 +86,7 @@ Problema: precisamos deduzir que tarefas são essas.
 
 Resposta:  (1) Promove o carregamento do núcleo do sistema operacional a partir do HD ou SSD para a memória RAM e (2) Carrega o endereço da primeira instrução do Escalonador de Processos no IC e no Register of Scheduler.
 
-**Questão 12**: [[Aula 24.10.21]]
+**Questão 12**: [[24-II-10.21]]
 
 Contexto: Um dos membros da nossa equipe não sabe o que é escalonamento.  
 
@@ -94,7 +94,7 @@ Problema: você deve usar um fato do seu cotidiano para exemplificar o que é es
 
 Resposta:  Turnos de trabalho em uma empresa.
 
-**Questão 13**: [[Aula 24.11.04]]
+**Questão 13**: [[24-II-11.04]]
 
 Contexto: Você usou um fato do seu cotidiano para exemplificar o que é escalonamento para um dos seus colegas de trabalho.  
 
@@ -102,7 +102,7 @@ Problema: o mesmo colega precisa saber a relação que existe entre  sistema ope
 
 Resposta:  O sistema operacional e os dois programas de usuário são escalonados para usar o processador
 
-**Questão 14**: [[Aula 24.11.06]]
+**Questão 14**: [[24-II-11.06]]
 
 Problema: Você deve classificar o seu sistema quanto ao número de programas executados “ao mesmo tempo”.  
 

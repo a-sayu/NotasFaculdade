@@ -2,5 +2,5 @@
 
 Um estudo e análise do que eu espero da matéria, do que estou estudando agora e o que já foi estudado.
 
-[[CG25-07-31]]
-[[CG25-08-01]]
+[[25-2SEM-CG-07-31]]
+[[25-2SEM-CG-08-01]]

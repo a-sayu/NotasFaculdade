@@ -4,3 +4,5 @@ Um estudo e análise do que eu espero da matéria, do que estou estudando agora 
 
 [[25-II-LFTC-07-29]]
 [[25-II-LFTC-07-30]]
+[[25-II-LFTC-08-05]]
+[[25-II-LFTC-08-06]]

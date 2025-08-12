@@ -43,7 +43,7 @@
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
-  "defaultPenMode": "never",
+  "defaultPenMode": "always",
   "penModeDoubleTapEraser": true,
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
@@ -122,7 +122,9 @@
   "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
-  "pinnedScripts": [],
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Set Grid.md"
+  ],
   "customPens": [
     {
       "type": "default",
@@ -449,10 +451,10 @@
   "gridSettings": {
     "DYNAMIC_COLOR": true,
     "COLOR": "#000000",
-    "OPACITY": 50,
+    "OPACITY": 100,
     "GRID_DIRECTION": {
       "horizontal": true,
-      "vertical": true
+      "vertical": false
     }
   },
   "laserSettings": {

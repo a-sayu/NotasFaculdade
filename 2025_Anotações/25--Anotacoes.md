@@ -117,12 +117,12 @@
 [[25-II-CG-08-08]] ++
 
 *Semana 3*
-[[25-II-BDII-08-11.excalidraw|25-II-BDII-08-11]] ++
-[[25-II-ESII-08-11]] +++++ (Aula de exercício)
-[[25-II-IA-08-11.excalidraw|25-II-IA-08-11]] +
-[[25-II-TMA-08-12]]
-[[25-II-BDII-08-12]]
-[[25-II-LFTC-08-12]]
+[[25-II-BDII-08-11]] | [[25-II-BDII-08-11.excalidraw|Excalidraw]] ++
+[[25-II-ESII-08-11]] (Aula de exercício)
+[[25-II-IA-08-11]] | [[25-II-IA-08-11.excalidraw|Excalidraw]] +
+[[25-II-TMA-08-12]] | [[25-II-TMA-08-12.excalidraw|Excalidraw]] ++++ 
+[[25-II-BDII-08-12]] | [[25-II-BDII-08-12.excalidraw|Excalidraw]] +++++
+[[25-II-LFTC-08-12]] | [[25-II-LFTC-08-12.excalidraw|Excalidraw]] 
 [[25-II-RCII-08-12]]
 [[25-II-IA-08-13]]
 [[25-II-LFTC-08-13]]

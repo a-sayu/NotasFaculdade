@@ -123,11 +123,43 @@
 [[25-II-TMA-08-12]] | [[25-II-TMA-08-12.excalidraw|Excalidraw]] ++++ 
 [[25-II-BDII-08-12]] | [[25-II-BDII-08-12.excalidraw|Excalidraw]] +++++
 [[25-II-LFTC-08-12]] | [[25-II-LFTC-08-12.excalidraw|Excalidraw]] 
-[[25-II-RCII-08-12]]
-[[25-II-IA-08-13]]
-[[25-II-LFTC-08-13]]
+[[25-II-RCII-08-12]] ++++
+[[25-II-IA-08-13]] | [[25-II-IA-08-13.excalidraw|Excalidraw]] +++++
+[[25-II-LFTC-08-13]] | [[25-II-LFTC-08-13.excalidraw|Excalidraw]]
 [[25-II-RCII-08-13]]
 [[25-II-ESII-08-14]]
 [[25-II-CG-08-14]]
 [[25-II-CII-08-14]]
 [[25-II-CG-08-15]]
+
+*Semana 4*
+[[25-II-BDII-08-18]] | [[25-II-BDII-08-18.excalidraw|Excalidraw]]
+[[25-II-ESII-08-18]] | [[25-II-ESII-08-18.excalidraw|Excalidraw]]
+[[25-II-IA-08-18]] | [[25-II-IA-08-18.excalidraw|Excalidraw]]
+[[25-II-TMA-08-19]] | [[25-II-TMA-08-19.excalidraw|Excalidraw]]
+[[25-II-BDII-08-19]] | [[25-II-BDII-08-19.excalidraw|Excalidraw]] 
+[[25-II-LFTC-08-19]] | [[25-II-LFTC-08-19.excalidraw|Excalidraw]] 
+[[25-II-RCII-08-19]] | [[25-II-RCII-08-19.excalidraw|Excalidraw]]
+[[25-II-IA-08-20]] | [[25-II-IA-08-20.excalidraw|Excalidraw]]
+[[25-II-LFTC-08-20]] | [[25-II-LFTC-08-20.excalidraw|Excalidraw]]
+[[25-II-RCII-08-20]] |
+[[25-II-ESII-08-21]] |
+[[25-II-CG-08-21]] |
+[[25-II-CII-08-21]] |
+[[25-II-CG-08-22]] |
+
+*Semana 5*
+[[25-II-BDII-08-25]] | [[25-II-BDII-08-25.excalidraw|Excalidraw]]
+[[25-II-ESII-08-25]] | 
+[[25-II-IA-08-25]] | [[25-II-IA-08-25.excalidraw|Excalidraw]]
+[[25-II-TMA-08-26]] | [[25-II-TMA-08-26.excalidraw|Excalidraw]]  
+[[25-II-BDII-08-26]] | [[25-II-BDII-08-26.excalidraw|Excalidraw]] 
+[[25-II-LFTC-08-26]] | [[25-II-LFTC-08-26.excalidraw|Excalidraw]] 
+[[25-II-RCII-08-26]] |
+[[25-II-IA-08-27]] | [[25-II-IA-08-27.excalidraw|Excalidraw]] 
+[[25-II-LFTC-08-27]] | [[25-II-LFTC-08-27.excalidraw|Excalidraw]]
+[[25-II-RCII-08-27]] |
+[[25-II-ESII-08-28]] |
+[[25-II-CG-08-28 ]]|
+[[25-II-CII-08-28]] |
+[[25-II-CG-08-29 ]]|

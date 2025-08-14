@@ -1,0 +1,18 @@
+{
+  "autoSaveInterval": 10,
+  "modelProvider": "builtin",
+  "modelId": "sentence-transformers/all-MiniLM-L6-v2",
+  "includeFrontmatter": false,
+  "showSourceChunk": true,
+  "useGPU": false,
+  "excludeFolderPatterns": [
+    "Templates/",
+    "Archive/",
+    ".trash/",
+    "Excalidraw/"
+  ],
+  "excludeRegexPatterns": [],
+  "regexpTestInputText": "",
+  "noteDisplayMode": "title",
+  "showAtBottom": true
+}

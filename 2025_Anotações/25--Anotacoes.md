@@ -133,7 +133,7 @@
 [[25-II-CG-08-15]]
 
 *Semana 4*
-[[25-II-BDII-08-18]] | [[25-II-BDII-08-18.excalidraw|Excalidraw]]
+[[25-II-BDII-08-18]] | [[25-II-BDII-08-18.excalidraw|Excalidraw]] +++
 [[25-II-ESII-08-18]] | [[25-II-ESII-08-18.excalidraw|Excalidraw]]
 [[25-II-IA-08-18]] | [[25-II-IA-08-18.excalidraw|Excalidraw]]
 [[25-II-TMA-08-19]] | [[25-II-TMA-08-19.excalidraw|Excalidraw]]

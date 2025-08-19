@@ -1,7 +1,7 @@
 {
   "autoSaveInterval": 10,
   "modelProvider": "builtin",
-  "modelId": "sentence-transformers/all-MiniLM-L6-v2",
+  "modelId": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
   "includeFrontmatter": false,
   "showSourceChunk": true,
   "useGPU": false,

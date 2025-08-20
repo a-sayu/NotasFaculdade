@@ -137,11 +137,11 @@
 [[25-II-ESII-08-18]] | +++
 [[25-II-IA-08-18]] | +
 [[25-II-TMA-08-19]] | 
-[[25-II-BDII-08-19]] | [[25-II-BDII-08-19.excalidraw|Excalidraw]] 
-[[25-II-LFTC-08-19]] | [[25-II-LFTC-08-19.excalidraw|Excalidraw]] 
-[[25-II-RCII-08-19]] | [[25-II-RCII-08-19.excalidraw|Excalidraw]]
-[[25-II-IA-08-20]] | [[25-II-IA-08-20.excalidraw|Excalidraw]]
-[[25-II-LFTC-08-20]] | [[25-II-LFTC-08-20.excalidraw|Excalidraw]]
+[[25-II-BDII-08-19]] | 
+[[25-II-LFTC-08-19]] | 
+[[25-II-RCII-08-19]] |
+[[25-II-IA-08-20]] |
+[[25-II-LFTC-08-20]] | 
 [[25-II-RCII-08-20]] |
 [[25-II-ESII-08-21]] |
 [[25-II-CG-08-21]] |

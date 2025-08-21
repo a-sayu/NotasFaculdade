@@ -8,6 +8,7 @@ Disciplinas Pendentes: [[25-II-CII]]
 08.18 : T1 : Inteligência Articial
 09.19 : P1 : Computação Gráfica
 09.25 : P1 : Cálculo II
+10.06 : P1 : Engenharia de Software II
 11.13 : T1 : Cálculo II
 11.13 : P2 : Cálculo II
 11.27 : SS : Cálculo II

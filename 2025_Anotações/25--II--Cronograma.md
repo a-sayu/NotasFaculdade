@@ -14,6 +14,7 @@ Disciplinas Pendentes: [[25-II-CII]]
 - [x] 08.21 : T2 : Engenharia de Software II (Entregue)
 - [ ] 09.01 : T1 : Inteligência Artificial
 - [ ] 09.02 : T2 : Tópicos de Matemática Aplicada
+- [ ] 09.09 : P1 : Linguagens Formais e Teoria da Computação
 - [ ] 09.10 : P1 : Inteligência Artificial
 - [ ] 09.19 : P1 : Computação Gráfica
 - [ ] 09.25 : P1 : Cálculo II

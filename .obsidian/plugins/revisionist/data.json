@@ -1,0 +1,15 @@
+{
+  "provider": "openrouter",
+  "apiKeys": {
+    "openrouter": "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",
+    "lmstudio": "",
+    "openai": ""
+  },
+  "defaultModel": "openai/gpt-4.1",
+  "defaultTemperature": 0.7,
+  "lmStudio": {
+    "port": "1234",
+    "modelName": "default"
+  },
+  "debugMode": false
+}

@@ -1,20 +1,24 @@
 {
   "commitMessage": "Atualizações do Dia: {{date}}",
+  "autoCommitMessage": "\"Atualizações Automáticas do Dia: {{date}}\"",
+  "commitMessageScript": "",
   "commitDateFormat": "DD/MM/YYYY HH:mm",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 60,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
+  "autoCommitOnlyStaged": false,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
+  "showErrorNotices": true,
   "disablePopupsForNoChanges": false,
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
+  "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
@@ -54,6 +58,5 @@
     "gutterSpacingFallbackLength": 5,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
-  },
-  "autoCommitMessage": "vault backup: {{date}}"
+  }
 }

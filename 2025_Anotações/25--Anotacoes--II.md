@@ -1,52 +1,48 @@
 # Segundo Semestre
 
-## **Notas Revisadas**
-
-## **Notas Completas**
-
-## **Notas Incompletas**
+## **Notas**
 
 #### *Semana 1*: 28/07-01/08
-[[25-II-BDII-07-28]] +
-[[25-II-ESII-07-28]] +
-[[25-II-IA-07-28]] +
-[[25-II-TMA-07-29]] +++
-[[25-II-BDII-07-29]] +++
-[[25-II-LFTC-07-29]] +
-[[25-II-RCII-07-29]] +++
-[[25-II-IA-07-30]] ++
-[[25-II-LFTC-07-30]] +
-[[25-II-RCII-07-30]] ++
-[[25-II-ESII-07-31]] +++
-[[25-II-CG-07-31]]
+[[25-II-BDII-07-28]] 
+[[25-II-ESII-07-28]] 
+[[25-II-IA-07-28]] 
+[[25-II-TMA-07-29]] 
+[[25-II-BDII-07-29]] 
+[[25-II-LFTC-07-29]] 
+[[25-II-RCII-07-29]] 
+[[25-II-IA-07-30]] 
+[[25-II-LFTC-07-30]] 
+[[25-II-RCII-07-30]] 
+[[25-II-ESII-07-31]] 
+[[25-II-CG-07-31]] (Revisada: 09.05)
 [[25-II-CII-07-31]]
 [[25-II-CG-08-01]]
 
 #### *Semana 2*: 04/08-08/08
-[[25-II-BDII-08-04]] +++
-[[25-II-ESII-08-04]] +
-[[25-II-IA-08-04]] +++
-[[25-II-TMA-08-05]] +++
-[[25-II-BDII-08-05]] +++
+[[25-II-BDII-08-04]] 
+[[25-II-ESII-08-04]] 
+[[25-II-IA-08-04]] 
+[[25-II-TMA-08-05]] 
+[[25-II-BDII-08-05]] 
 [[25-II-LFTC-08-05]]
 [[25-II-RCII-08-05]]
-[[25-II-IA-08-06]] ++++
-[[25-II-LFTC-08-06]] +++
-[[25-II-RCII-08-06]] ++++
-[[25-II-ESII-08-07]] +++
-[[25-II-CG-08-07]] +
-[[25-II-CII-08-07]] ++
-[[25-II-CG-08-08]] ++
+[[25-II-IA-08-06]] 
+[[25-II-LFTC-08-06]] 
+[[25-II-RCII-08-06]] 
+[[25-II-ESII-08-07]] 
+[[25-II-CG-08-07]] 
+[[25-II-CII-08-07]] 
+[[25-II-CG-08-08]] 
 
 #### *Semana 3*: 11/08-15/08
-[[25-II-BDII-08-11]] | [[25-II-BDII-08-11.excalidraw|Excalidraw]] ++
+[[25-II-BDII-08-11]] | [[25-II-BDII-08-11.excalidraw|Excalidraw]] 
 [[25-II-ESII-08-11]] (Aula de exercício)
-[[25-II-IA-08-11]] | [[25-II-IA-08-11.excalidraw|Excalidraw]] +
-[[25-II-TMA-08-12]] | [[25-II-TMA-08-12.excalidraw|Excalidraw]] ++++ 
-[[25-II-BDII-08-12]] | [[25-II-BDII-08-12.excalidraw|Excalidraw]] +++++
+[[25-II-IA-08-11]] | [[25-II-IA-08-11.excalidraw|Excalidraw]] 
+[[25-II-TMA-08-12]] | [[25-II-TMA-08-12.excalidraw|Excalidraw]] 
+[[25-II-BDII-08-12]] | [[25-II-BDII-08-12.excalidraw|Excalidraw]] 
 [[25-II-LFTC-08-12]] | [[25-II-LFTC-08-12.excalidraw|Excalidraw]] 
-[[25-II-RCII-08-12]] ++++
-[[25-II-IA-08-13]] | [[25-II-IA-08-13.excalidraw|Excalidraw]] +++++
+[[25-II-RCII-08-12]] 
+[[25-II-IA-08-13]] | [[25-II-IA-08-13.excalidraw|Excalidraw]] 
 [[25-II-LFTC-08-13]] | [[25-II-LFTC-08-13.excalidraw|Excalidraw]]
 [[25-II-RCII-08-13]]
 [[25-II-ESII-08-14]]
@@ -55,9 +51,9 @@
 [[25-II-CG-08-15]]
 
 #### *Semana 4*: 18/08-22/08
-[[25-II-BDII-08-18]] | +++
-[[25-II-ESII-08-18]] | +++
-[[25-II-IA-08-18]] | +
+[[25-II-BDII-08-18]] | 
+[[25-II-ESII-08-18]] | 
+[[25-II-IA-08-18]] |
 [[25-II-TMA-08-19]] | 
 [[25-II-BDII-08-19]] | 
 [[25-II-LFTC-08-19]] | 
@@ -118,5 +114,32 @@
 [[25-II-CG-09-11]]|
 [[25-II-CII-09-11]] |
 [[25-II-CG-09-12]] |
-#### *Semana X*: XX/XX-XX/XX
+#### *Semana 8*: XX/09-XX/09
+[[25-II-XX-XX-XX]]
+
+#### *Semana 8: XX/09-XX/09
+[[25-II-XX-XX-XX]]
+
+#### *Semana 9*: XX/09-XX/10
+[[25-II-XX-XX-XX]]
+
+#### *Semana 10*: XX/10-XX/10
+[[25-II-XX-XX-XX]]
+
+#### *Semana 11*: XX/10-XX/10
+[[25-II-XX-XX-XX]]
+
+#### *Semana 12*: XX/10-XX/10
+[[25-II-XX-XX-XX]]
+
+#### *Semana 13*: XX/11-XX/11
+[[25-II-XX-XX-XX]]
+
+#### *Semana 14: XX/11-XX/11
+[[25-II-XX-XX-XX]]
+
+#### *Semana 15: XX/11-XX/11
+[[25-II-XX-XX-XX]]
+
+#### *Semana 16: XX/11-XX/11
 [[25-II-XX-XX-XX]]

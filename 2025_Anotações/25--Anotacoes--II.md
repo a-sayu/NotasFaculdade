@@ -15,7 +15,7 @@
 [[25-II-RCII-07-30]] 
 [[25-II-ESII-07-31]] 
 [[25-II-CG-07-31]] (Revisada: 09.05)
-[[25-II-CII-07-31]]
+[[25-II-CII-07-31]] (Revisada: 09.05) // TODO: Não está finalizada.
 [[25-II-CG-08-01]]
 
 #### *Semana 2*: 04/08-08/08

@@ -1,0 +1,109 @@
+/* styles.css (최종 완성본 - white-space 수정) */
+
+/* 모달의 각 결과 아이템 */
+.easylink-result-item {
+	padding: 15px;
+	display: flex;
+	flex-direction: column;
+	border-bottom: 1px solid var(--background-modifier-border);
+	white-space: normal;
+}
+
+/* 아이템 헤더 (파일 경로/제목 + 점수) */
+.easylink-result-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin-bottom: 12px;
+}
+
+.easylink-result-title {
+	color: var(--text-muted);
+	font-size: 0.9em;
+}
+.easylink-result-title .easylink-folder-path {
+	margin-right: 4px;
+}
+.easylink-result-title .easylink-file-name {
+	color: var(--text-normal);
+	font-weight: 600;
+}
+
+/* 점수 텍스트 */
+.easylink-result-score {
+	font-size: 1em;
+	font-weight: 700;
+	color: var(--text-muted);
+	margin-left: 10px;
+	white-space: nowrap;
+}
+.easylink-result-score.score-high {
+	color: var(--color-green);
+}
+.easylink-result-score.score-medium {
+	color: var(--color-blue);
+}
+.easylink-result-score.score-low {
+	color: var(--color-red);
+}
+
+/* 내용 미리보기 */
+.easylink-result-preview {
+	background-color: var(--background-secondary);
+	border-radius: 6px;
+	padding: 8px 16px;
+	overflow-y: auto;
+	max-height: 40vh;
+	font-size: 0.95em;
+	border: 1px solid var(--background-modifier-border-hover);
+	line-height: var(--line-height-normal); /* 기본 줄간격 설정 */
+}
+
+/* 하이라이트 스타일 */
+.easylink-result-preview mark {
+	background-color: var(--text-highlight-bg);
+	color: var(--text-highlight-fg);
+}
+
+/* 헤더와 문단은 테마 스타일을 잘 따르므로, 여백만 살짝 조정합니다. */
+.easylink-result-preview :is(h1, h2, h3, h4, h5, h6, p) {
+	margin-block: 0.5em;
+}
+
+/* 이제 리스트 간격이 정상적으로 동작합니다. */
+.easylink-result-preview :is(ul, ol) {
+	margin-block: 0.5em;
+	padding-inline-start: 25px;
+}
+.easylink-result-preview li {
+	margin-bottom: 0.3em;
+}
+
+/* 모달 하단 단축키 안내 문구 */
+.easylink-shortcut-hint {
+	font-size: 0.9em;
+	color: var(--text-muted);
+	text-align: center;
+	padding: 12px;
+	border-top: 1px solid var(--background-modifier-border);
+}
+
+.easylink-github-sponsor-button {
+	background-color: #ea4aaa !important;
+	color: white !important;
+	font-weight: 600 !important;
+}
+
+.easylink-github-sponsor-button:hover {
+	background-color: #d858a2 !important;
+}
+
+.easylink-bmac-button {
+	background-color: #ffdd00 !important;
+	color: #000000 !important;
+	font-weight: 600 !important;
+}
+
+.easylink-bmac-button:hover {
+	background-color: #fbcb00 !important;
+}

@@ -5,5 +5,13 @@
       "modifiers": [],
       "key": "F1"
     }
+  ],
+  "templater-obsidian:_util/templates/_25_common_notes.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }

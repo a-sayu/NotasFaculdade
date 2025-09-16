@@ -1,0 +1,9 @@
+{
+  "app:open-help": [],
+  "open-with-default-app:open": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ]
+}

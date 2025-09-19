@@ -16,3 +16,4 @@ Plugins usados no Obsidian:
 - Similar Notes
 - EasyLink
 - Typing Transformer
+- Templater

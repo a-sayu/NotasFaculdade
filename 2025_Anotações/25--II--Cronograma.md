@@ -16,7 +16,7 @@ Disciplinas Pendentes: [[25-II-CII]]
 - [x] 09.08 : T1 : Inteligência Artificial
 - [x] 09.09 : P1 : Linguagens Formais e Teoria da Computação
 - [x] 09.10 : P1 : Inteligência Artificial
-- [ ] 09.16 : P1 : Redes de Computadores II
+- [x] 09.16 : P1 : Redes de Computadores II
 - [ ] 09.19 : T1 : Simulador para Gramática Regular e Autômatos Finitos
 - [ ] 09.19 : T1 : Implementação de Computação Gráfica
 - [ ] 09.19 : P1 : Computação Gráfica

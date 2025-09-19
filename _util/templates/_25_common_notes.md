@@ -1,8 +1,10 @@
-# {month.day} - Aula
+# month.day - Aula
 
 Excalidraw: [[|Excalidraw]]
 
-## Slide:[[|Aula]]
+## Slide: [[|Aula]]
+
+---
 
 ```to_erase
 **kind guide of usage!**
@@ -19,4 +21,4 @@ u: is for update
 
 ## ***log***
 
-> *`upd`* : *template created -- 09.16*
+> *`upd`* : *note created -- month.day*

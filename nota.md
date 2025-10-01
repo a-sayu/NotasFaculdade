@@ -110,17 +110,17 @@ Para listas, é só seguir o padrão usado ao escrever:
 
 * ou -, fácil né?
 
-Itálico é uma enfase suave, nisso você põe um pouco de brilho com * em volta.
+*Itálico* é uma enfase suave, nisso você põe um pouco de brilho com * em volta.
 
-Negrito é a enfase pesada, nisso põe mais brilho com ** em volta.
+**Negrito** é a enfase pesada, nisso põe mais brilho com ** em volta.
 
 Lista de Tarefas é só pensar em criar as caixinhas que você vai assinalar:
 
-- [ ] Tarefa
+- [x] Tarefa
 
 E se completar
 
-- [ X ] Tarefa
+- [ ] Tarefa
 
 Adiciona um X, fácil de ver?
 
@@ -148,11 +148,11 @@ Link e o Link para imagem (Que exibe ela):
 
 e ![texto alternativo](imagem.png)
 
-Citações, com >, nisso ele cria basicamente uma caixinha com o texto dentro.
+> Citações, com >, nisso ele cria basicamente uma caixinha com o texto dentro.
 
 Código: existem duas formas, o que é o inline só com ` em volta da frase, e o com ```, que cria um bloco de código onde você pode escrever diretamente e ele fica como se fosse txt, a não ser que você adicione a linguagem, e então o obsidian mostra o texto colorido como se fosse um código dentro linguagem.
 
-O markdown, na maioria das vezes consegue integrar com KaTeX, e ai quem sabe LaTeX pode se divertir, meu uso mesmo é só para matemática, como por exemplo essa integral: \int^2_0{\frac{\ln{x^2}}{x}}, mas as vezes se torna mais prático desenhar do que escrever diretamente.
+O markdown, na maioria das vezes consegue integrar com KaTeX, e ai quem sabe LaTeX pode se divertir, meu uso mesmo é só para matemática, como por exemplo essa integral: $$\int^2_0{\frac{\ln{x^2}}{x}}$$, mas as vezes se torna mais prático desenhar do que escrever diretamente.
 
 A parte de HTML, eu fico devendo, porque eu realmente não sei muito de HTML para ajudar. Alguns exemplos podem ser, centralização:
 

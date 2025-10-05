@@ -6,6 +6,8 @@ Algumas notas estão incompletas e estou usando apenas meu tempo livre para pree
 
 Espero que essas notas sejam úteis para você também. E tem muitos comentários meus e aulas que eu simplesmente não fui, então boa sorte.
 
+No momento ele está vazio, mas é só por enquanto.
+
 ## Obsidian Related Stuff
 
 Plugins usados no Obsidian:

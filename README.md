@@ -1,4 +1,4 @@
-# Anotações da Faculdade
+# README
 
 Ah olá! Você encontrou um compilado de anotações feitas a partir do segundo ano do curso de bacharelado em Ciência da Computação pela UNESP.
 

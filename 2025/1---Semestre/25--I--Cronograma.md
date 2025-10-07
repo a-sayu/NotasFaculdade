@@ -1,6 +1,8 @@
 # 25--I--Cronograma
 
-Tag: #3_Ano #provas_3
+Disciplinas do Quinto Semestre: [[25-I-BDI]], [[25-I-ESI]], [[25-I-PDI]], [[25-I-RCI]], [[25-II-SOII]]
+Disciplinas Optativas: Nenhuma
+Disciplinas Pendentes: [[25-I-PEI]]
 
 | Hor | Seg | Ter | Qua | Qui | Sex |
 | --- | --- | --- | --- | --- | --- |

@@ -5,7 +5,6 @@
 - Feita a análise da aula 1 conforme as observações feitas até o momento pela equipe:
 	- Adiar a apresentação de navegadores;
 	- Adicionar imagens para contribuir o entendimento por parte dos idosos.
-- Enviar mensagem para confirmar finalização da Tarefa, e avisar a próxima data de início de uma nova Tarefa.
 
 **Observações:**
 
@@ -16,6 +15,7 @@
 **Planejamento Futuro:**
 
 - Amanhã:
+	- Enviar mensagem para confirmar finalização da Tarefa, e avisar a próxima data de início de uma nova Tarefa.
 	- Planejar próxima tarefa (ID10) acerca da aula 2 e aula 3.
 	- Fazer análise da aula 2 conforme as observações feitas até o momento pela equipe.
 - Quarta-Feira:

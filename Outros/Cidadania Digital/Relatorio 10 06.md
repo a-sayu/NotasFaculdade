@@ -14,7 +14,7 @@
 
 **Planejamento Futuro:**
 
-- Amanhã:
+- Terça-Feira:
 	- Enviar mensagem para confirmar finalização da Tarefa, e avisar a próxima data de início de uma nova Tarefa.
 	- Planejar próxima tarefa (ID10) acerca da aula 2 e aula 3.
 	- Fazer análise da aula 2 conforme as observações feitas até o momento pela equipe.

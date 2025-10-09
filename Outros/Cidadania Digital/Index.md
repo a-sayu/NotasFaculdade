@@ -7,3 +7,4 @@ Local: Lab 10
 
 [[Relatorio 10 06]]
 [[Relatorio Extra 10 07]]
+[[Relatorio 10 08]]

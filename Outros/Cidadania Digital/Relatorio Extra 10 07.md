@@ -21,12 +21,12 @@ Prazo: até 15 de outubro.
 - Conversar sobre as atividades da tarefa.
 - Repassar informações sobre alterações previstas.
 
-**Atividade 1 - Conteúdo e Didática**: @eu, @~Nathan Alves e @~Vitor
+**Atividade 1 - Conteúdo e Didática**: @eu, @~Nathan Alves, @~Igor e @~Matheus
 - Revisar o rumo do conteúdo conforme informações recentes sobre os idosos.
 - Discutir ajustes necessários e registrar decisões necessárias para o outro grupo. 
 
-**Atividade 2 - Aula 2**: @~Igor, @+55 18 99812-4279 , @~Matheus e @~Vinicyus
-- Conforme o que for definido sobre o Conteúdo e Didática, realizar alterações para a aula 2.
+**Atividade 2 - Aula 1**: @~Vinicyus, @~Vitor e o Shauss
+- Conforme o que for definido sobre o Conteúdo e Didática, realizar alterações para a aula 1.
 - Garantir que o material permita continuidade com a nova abordagem didática.
 
 **Importante**:

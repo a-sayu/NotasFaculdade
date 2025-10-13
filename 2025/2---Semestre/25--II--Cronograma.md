@@ -4,6 +4,14 @@ Disciplinas do Sexto Semestre: [[25-II-BDII]], [[25-II-CG]], [[25-II-ESII]], [[2
 Disciplinas Optativas: [[25-II-TMA]]
 Disciplinas Pendentes: [[25-II-CII]]
 
+| Hor | Seg  | Ter  | Qua  | Qui  | Sex |
+| --- | ---- | ---- | ---- | ---- | --- |
+| 8h  | ---  | TMA  | ---  | ---  | --- |
+| 14h | BDII | BDII | IA   | ESII | CG  |
+| 16h | ESII | LFTC | LFTC | CG   | --- |
+| 19h | IA   | RCII | RCII | CII  | --- |
+| 21h | ---  | ---  | ---  | CII  | --- |
+
 **Provas e Trabalho**:
 - [X] 08.13 : T1 : Linguagens Formais e Teoria da Computação (Entregue por Outra Pessoa)
 - [x] 08.18 : T1 : Engenharia de Software II (Não Entregue)
@@ -18,11 +26,11 @@ Disciplinas Pendentes: [[25-II-CII]]
 - [x] 09.10 : P1 : Inteligência Artificial
 - [x] 09.16 : P1 : Redes de Computadores II
 - [x] 09.19 : P1 : Computação Gráfica
-- [ ] 09.22 : T1 : Engenharia de Software: Controle
-- [ ] 09.23 : T1 : Simulador para Gramática Regular e Autômatos Finitos
-- [ ] 09.25 : P1 : Cálculo II
-- [ ] 09.29 : T1 : Implementação de Computação Gráfica
-- [ ] 10.06 : P1 : Engenharia de Software II
+- [x] 09.22 : T1 : Engenharia de Software: Controle
+- [x] 09.23 : T1 : Simulador para Gramática Regular e Autômatos Finitos
+- [x] 09.25 : P1 : Cálculo II
+- [x] 09.29 : T1 : Implementação de Computação Gráfica
+- [x] 10.06 : P1 : Engenharia de Software II
 - [ ] 11.13 : T1 : Cálculo II
 - [ ] 11.13 : P2 : Cálculo II
 - [ ] 11.25 / 11.26 : P2 : LFTC

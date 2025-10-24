@@ -24,7 +24,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "_util/templates/_25_common_notes.md"
+    "_utilidades/templates/25-common-notes.md"
   ],
   "startup_templates": [
     ""

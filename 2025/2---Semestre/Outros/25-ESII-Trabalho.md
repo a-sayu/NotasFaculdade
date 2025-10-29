@@ -37,29 +37,51 @@ Entrada no Sistema: Login Geral, Cadastro de Funcionários por Gerentes, Cadastr
 - Permitir o cadastro de um cliente com as seguintes características: nome não vazio, data de nascimento, cpf ou cnpj, telefone, e-mail, endereço de contato (rua, cep, número da casa, complemento), foto 300x400 pixels do tipo jpeg e gênero (feminino, masculino ou outros).
 - Reconhecer se o cliente sendo cadastrado já existe no sistema.
 
+###  Cadastro de Imóvel
+
+- Permitir o cadastro de um Imóvel com as seguintes características: nome não vazio, cliente não vazio, ocupado (verdadeiro ou falso), tipo de imóvel (casa, apartamento, chácara), laudo técnico não vazio e laudo de vistoria.
+- Reconhecer que o funcionário está conectado na mesma instância do aplicativo ao realizar um cadastro de imóvel.
+- Reconhecer se o imóvel sendo cadastrado já existe no sistema.
+
+### Criação de Laudo Técnico
+
+- Reconhecer que o funcionário está conectado na mesma instância do aplicativo ao realizar a crianção de um laudo técnico.
+- Permitir a criação de um laudo imóvel com as seguintes características: nome do responsável não vazio, foto 300x400 pixels do jpeg, endereço (rua, cep, número da casa, complemento), valor do imóvel, área total e área interna.
+
+### Criação de Laudo de Vistoria
+
+- 
+
 ### Funções de Recursos Humanos
 
->  Registro Funcionário > Editar Funcionário > Arquivar Funcionário
+#### Editar Funcionário > Arquivar Funcionário
 
 - Permitir que um funcionário possa editar as seguintes características: senha não idêntica à atual, telefone, e-mail, endereço.
-- Permitir que um gerente possa editar todas as características de funcionário de cargo não gerente, tirando senha e cpf.
+- Permitir que um gerente possa editar todas as características de funcionário de cargo não gerente, tirando senha, data de nascimento e cpf.
 - Permitir que um gerente possa arquivar um funcionário em caso de demissão.
+- Permitir que o gerente inicial possa editar as caracteristicas de funcionãrios em geral.
 
+#### Editar Cliente > Arquiva Cliente
 
-Registro de Cliente > Editar Cliente > Arquiva Cliente
-**`TODO`**
+- Permitir que um funcionário possa editar todas as características de um cliente, tirando a data de nascimento e cpf.
+- Permitir que um funcionário possa arquivar um cliente.
+- Permitir que o gerente inicial possa editar as características de clientes em geral.
 
-Funções do Sistema:
-Registro de Imóveis > Editar Imóveis > Arquiva Imóvel
-**`TODO`**
+### Funções do Sistema
 
-- Criar Imóvel (reconhecer se nome não vazio, caracter alfanumérico, gerar , preencher dados (algum dado)
+#### Editar Imóveis > Arquiva Imóvel
 
-Registro de Tecnico > Editar Tecnico > Arquiva Técnico
-**`TODO`**
+- Permitir que um funcionário possa editar todas as características de um imóvel.
+- Permitir que um funcionário possa arquivar um imóvel.
 
-Registro de Vistoria > Editar Vistoria > Arquiva Vistoria
-**`TODO`**
+#### Editar Laudo Tecnico > Arquivar Laudo Técnico
+
+- Não permitir que haja alterações em um laudo técnico.
+- Permitir que um funcionário possa arquivar um laudo caso haja um outro laudo mais recente criado para o imóvel.
+
+#### Editar Vistoria > Arquiva Vistoria
+
+- 
 
 Registro de Contrato > Editar Contrato > Arquiva Contrato
 **`TODO`**

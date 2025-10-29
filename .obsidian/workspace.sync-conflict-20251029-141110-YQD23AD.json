@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "09beefc8c346949c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7e3f1a52ef40309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fcae3d26d975492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/2---Semestre/2. CG/25-CG-10-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25-CG-10-24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63cc8f807975fc03",
+    "type": "split",
+    "children": [
+      {
+        "id": "b185795a32516638",
+        "type": "tabs",
+        "dimension": 57.66081871345029,
+        "children": [
+          {
+            "id": "9f86e8468e3830ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "30973750ee00464b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Visão Geral sobre Inteligência Artificial\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "3de1613d09194638",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b888fe72c511261a",
+        "type": "tabs",
+        "dimension": 42.33918128654971,
+        "children": [
+          {
+            "id": "e90c52056047309c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c265193b4a6fa70",
+    "type": "split",
+    "children": [
+      {
+        "id": "464161ee5758afaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f32fd90f79a0b81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025/2---Semestre/Outros/25-LFTC-10-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 25-LFTC-10-11"
+            }
+          },
+          {
+            "id": "b314027754d4c803",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025_Anotações/ESI/Aula 25.02.20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Aula 25.02.20"
+            }
+          },
+          {
+            "id": "686f5a925df1ee54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1357b63d8165bf1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025_Anotações/ESI/Aula 25.02.20.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Aula 25.02.20"
+            }
+          },
+          {
+            "id": "f9f35a99013afb53",
+            "type": "leaf",
+            "state": {
+              "type": "similar-notes-sidebar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "similar-notes-sidebar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota aleatória": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "easylink:EasyLink: Find similar notes": false,
+      "templater-obsidian:Templater": false,
+      "similar-notes:Open Similar Notes": false
+    }
+  },
+  "active": "9fcae3d26d975492",
+  "lastOpenFiles": [
+    "2025/2---Semestre/2. CG/Untitled.md",
+    "2025/2---Semestre/2. CG/25-CG-10-24.md",
+    "2025/2---Semestre/2. CG/25-CG-10-23.md",
+    "2025/2---Semestre/Outros/25-ESII-Trabalho.md",
+    "2025/2---Semestre/6. RCII/25-RCII-10-22.md",
+    "2025/2---Semestre/Anexos/25-RCII-10-22-ProofOfConcept (Vlan).png",
+    "2025/2---Semestre/6. RCII/Anexos/Pasted image 20251022202051.png",
+    "2025/2---Semestre/6. RCII/Anexos",
+    "2025/2---Semestre/Outros/25-LFTC-10-11.md",
+    "2025/2---Semestre/Anexos/25-LFTC-10-11-Exemplo.png",
+    "2025/2---Semestre/Anexos/25-LFTC-10-11-E1.png",
+    "2025/2---Semestre/Anexos/25-BDII-Aula02.pdf",
+    "2025/2---Semestre/Anexos/25-ESII-Aula08.pdf",
+    "2025/2---Semestre/Anexos/25-ESII-Aula07.pdf",
+    "2025/2---Semestre/Anexos/25-ESII-Aula06.pdf",
+    "2025/2---Semestre/Anexos/25-ESII-Aula05.pdf",
+    "2025/2---Semestre/Anexos/25-ESII-Aula04.pdf",
+    "2025/2---Semestre/Anexos/25-ESII-Aula03.pdf",
+    "2025/2---Semestre/Anexos/25-ESII-Aula02.pdf",
+    "2025/2---Semestre/Anexos/25-ESII-Aula02-Atividade.pdf",
+    "2025/2---Semestre/7. TMA/25-TMA-10-07.md",
+    "2025/2---Semestre/7. TMA/25-TMA-10-14.md",
+    "2025/2---Semestre/6. RCII/25-RCII-10-07.md",
+    "2025/2---Semestre/4. IA/25-IA-10-22.md",
+    "2025/2---Semestre/4. IA/25-IA-10-15.md",
+    "2025/2---Semestre/4. IA/25-IA-10-13.md",
+    "2025/2---Semestre/4. IA/25-IA-10-06.md",
+    "2025/2---Semestre/3. ESII/25-ESII-09-11.md",
+    "2025/2---Semestre/3. ESII/25-ESII-08-18.md",
+    "2025/2---Semestre/3. ESII/25-ESII.md",
+    "2025/2---Semestre/3. ESII/25-ESII-09-15.md",
+    "2025/2---Semestre/3. ESII/25-ESII-09-08.md",
+    "2025/2---Semestre/3. ESII/25-ESII-09-04.md",
+    "2025/2---Semestre/3. ESII/25-ESII-09-01.md",
+    "2025/2---Semestre/3. ESII/25-ESII-08-28.md",
+    "2025/2---Semestre/3. ESII/25-ESII-08-25.md",
+    "2025/2---Semestre/3. ESII/25-ESII-08-21.md",
+    "2025/2---Semestre/3. ESII/25-ESII-08-14.md",
+    "2025/2---Semestre/3. ESII/25-ESII-08-11.md",
+    "2025/2---Semestre/3. ESII/25-ESII-08-07.md",
+    "2025/2---Semestre/Anexos/Pasted image 20251013150240.png",
+    "Outros/Anexos/Pasted image 20251001180724.png",
+    "Outros/Anexos/Pasted image 20251001175823.png",
+    "Outros/Anexos/Pasted image 20251001180752.png",
+    "Outros/Anexos/Pasted image 20251001175948.png",
+    "Outros/Anexos/Pasted image 20251001175122.png",
+    "Sem título.canvas",
+    "Untitled.canvas"
+  ]
+}

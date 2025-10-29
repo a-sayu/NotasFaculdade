@@ -4,7 +4,7 @@
   "newFileLocation": "current",
   "spellcheck": false,
   "strictLineBreaks": true,
-  "attachmentFolderPath": "./Anexos",
+  "attachmentFolderPath": "./",
   "showInlineTitle": false,
   "pdfExportSettings": {
     "includeName": false,

@@ -13,5 +13,32 @@
       ],
       "key": "T"
     }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Meta"
+      ],
+      "key": "O"
+    }
+  ],
+  "templater-obsidian:_utilidades/templates/25-common-notes.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:create-_utilidades/templates/25-common-notes.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }

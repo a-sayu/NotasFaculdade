@@ -1,4 +1,4 @@
-# 25--II--Cronograma
+# 25--Cronograma--II
 
 Disciplinas do Sexto Semestre: [[25-BDII]], [[25-II-CG]], [[25-ESII]], [[25-II-IA]], [[25-II-LFTC]], [[25-II-RCII]]
 Disciplinas Optativas: [[25-II-TMA]]

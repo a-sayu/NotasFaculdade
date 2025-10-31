@@ -31,10 +31,10 @@ Disciplinas Pendentes: [[25-II-CII]]
 - [x] 09.25 : P1 : Cálculo II (4,75)
 - [x] 09.29 : T1 : Implementação de Computação Gráfica
 - [x] 10.06 : P1 : Engenharia de Software II
-- [ ] 10.21 : P1 : Banco de Dados II
-- [ ] 10.27 : T1 : Banco de Dados II
+- [x] 10.21 : P1 : Banco de Dados II
 - [ ] 11.13 : T1 : Cálculo II
 - [ ] 11.13 : P2 : Cálculo II
+- [ ] 11.17 : T1 : Banco de Dados II
 - [ ] 11.24 : P1 : Inteligência Artificial
 - [ ] 11.25 / 11.26 : P2 : LFTC
 - [ ] 11.27 : SS : Cálculo II

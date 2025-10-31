@@ -20,6 +20,7 @@ Entrada no Sistema: Login Geral, Cadastro de Funcionários por Gerentes, Cadastr
 - Suportar uma interface gráfica para cadastros.
 - Criar uma conta de gerente inicial para administração do sistema em geral.
 - Reconhecer que o funcionário está conectado apenas na mesma instância do aplicativo ao realizar uma funcionalidade do sistema.
+- Guardar todas as alterações em log.
 
 ### Login Geral
 
@@ -54,7 +55,7 @@ Entrada no Sistema: Login Geral, Cadastro de Funcionários por Gerentes, Cadastr
 
 ### Criação de Contrato de Aluguel
 
-- Permitir a criação de um contrato de aluguel com as seguintes características: lista de seguros, caução do aluguel, porcentagem de desconto, valor da comissão da imobiliária, cliente locatário, funcionário responsável e imóvel.
+- Permitir a criação de um contrato de aluguel com as seguintes características: lista de seguros, caução do aluguel, desconto em decimal, valor da comissão da imobiliária, cliente locatário, funcionário responsável e imóvel.
 - Não permitir a criação caso algum desses esteja vazio.
 
 ### Criação de Seguro
@@ -65,10 +66,19 @@ Entrada no Sistema: Login Geral, Cadastro de Funcionários por Gerentes, Cadastr
 ### Criação de Cobrança de Aluguel
 
 - Permitir a criação de uma cobrança de aluguel com as seguintes características: valor do aluguel, dia do pagamento e pago (verdadeiro ou falso)
+- Não permitir a criação caso algum desses esteja vazio.
 
 ### Criação de Cobrança de Multa
 
--
+- Permitir a criação de uma cobrança de multa, caso a cobrança de aluguel correspondente esteja com a caracteristica pago falso, e o dia do pagamento já tenha passado, com as seguintes características: valor adicional, dias em atraso, juros em decimal e pago (verdadeiro ou falso)
+- Não permitir a criação caso algum desses esteja vazio.
+
+### Criação de Agendamento
+
+- Permitir a criação de um agendamento de visita à um imóvel com as  seguintes características: data de visita, horário de visita, funcionário responsável, cliente solicitante e imóvel a ser visitado.
+- Não permitir a criação caso algum desses esteja vazio.
+- Não permitir a criação caso exista funcionários com dois ou mais clientes agendados no mesmo horário.
+- Não permitir a 
 
 ### Funções de Recursos Humanos
 
@@ -122,15 +132,17 @@ Entrada no Sistema: Login Geral, Cadastro de Funcionários por Gerentes, Cadastr
 #### Editar Cobrança de Aluguel > Arquiva Cobrança de  Aluguel
 
 - Permitir que um funcionário possa editar as características de uma cobrança de aluguel.
-- Permitir que um funcionário possa arquivar a cobrança de um aluguel caso a característica pago for verdadeira.
+- Arquivar automaticamente a cobrança de um aluguel caso a característica pago for verdadeira.
 
 #### Editar Cobrança de Multa > Arquiva Cobrança de Multa
 
-- 
+- Permitir que um funcionário possa editar as características de uma cobrança de multa.
+- Arquivar automaticamente a cobrança de um multa caso a característica pago for verdadeira.
+
+### Agendamento
 
 #### Editar Agendamento > Arquiva Agendamento
 
-- 
 
 ### Busca
 

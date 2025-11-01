@@ -36,7 +36,7 @@ Entrada no Sistema: Login Geral, Cadastro de Funcionários por Gerentes, Cadastr
 
 ### Cadastro de Cliente
 
-- Permitir o cadastro de um cliente com as seguintes características: nome não vazio, data de nascimento, cpf ou cnpj, telefone, e-mail, endereço de contato (rua, cep, número da casa, complemento), foto 300x400 pixels do tipo jpeg e gênero (feminino, masculino ou outros).
+- Permitir o cadastro de um cliente com as seguintes características: nome não vazio, data de nascimento, cpf ou cnpj, telefone, e-mail, endereço de contato (rua, cep, número da casa, complemento) e gênero (feminino, masculino ou outros).
 - Reconhecer se o cliente sendo cadastrado já existe no sistema.
 
 ###  Cadastro de Imóvel
@@ -214,3 +214,36 @@ Entrada no Sistema: Login Geral, Cadastro de Funcionários por Gerentes, Cadastr
 - $\sum$ ((aluguel / ((valor do imóvel)$\times$(1 $-$ desconto) $+$ valor dos seguro do imóvel)) - 1)  $_i$
 
 
+## Outras coisas do Doc. Requisitos
+
+Remover:
+
+- Despesa
+
+Adicionar:
+
+- Seguro: Serviço Adicionais fornecido para o cliente, como por exemplo, seguro do imóvel, seguro de vida, internet e etc.
+- Gerente: Funcionários que possuem maior responsabilidade e gerenciam outros funcionários no sistema.
+- Funcionário: São pessoas que trabalham para a empresa e que utilizam o sistema para suas atividades diárias na Imobiliária.
+- Cliente: São pessoas que possuem algum negócio envolvendo a Imobiliária, recebendo e pagando por serviços oferecidos pela mesma. Podendo ser proprietários de imóveis, locatários ou solicitantes de serviços.
+- Laudo Técnico: É um documento emitido após visitas técnicas com o objetivo de apontar falhas e pontos de atenção encontrados em uma inspeção, sendo um requisito para avaliação de imóveis, trazendo a validação, diagnóstico e conclusão técnica, além de assinatura e registro de um responsável técnico.
+- Laudo de Vistoria: É um documento técnico responsável por registrar o estado atual da propriedade, trazendo descrições e fotos do local a ser alugado ou comprado.
+
+https://www.produttivo.com.br/blog/laudo-tecnico-modelo-digital-dicas/
+https://www.vivareal.com.br/blog/dicas-compra/laudo-de-vistoria-de-imovel/
+
+@misc{J,
+author = {Victor Serta},
+title = {O que é laudo técnico e como fazer + modelo digital},
+year = {2025},
+howpublished = {\url{https://www.produttivo.com.br/blog/laudo-tecnico-modelo-digital-dicas/,
+note = {Accessed: 2025-11-01}
+}
+
+@misc{J,
+author = {Viva Real},
+title = {# Laudo de vistoria de imóvel: o que é, quem faz e como elaborar um — Guia completo},
+year = {2023},
+howpublished = {\url{https://www.vivareal.com.br/blog/dicas-compra/laudo-de-vistoria-de-imovel/,
+note = {Accessed: 2025-11-01}
+}

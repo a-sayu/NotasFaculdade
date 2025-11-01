@@ -78,7 +78,14 @@ Entrada no Sistema: Login Geral, Cadastro de Funcionários por Gerentes, Cadastr
 - Permitir a criação de um agendamento de visita à um imóvel com as  seguintes características: data de visita, horário de visita, funcionário responsável, cliente solicitante e imóvel a ser visitado.
 - Não permitir a criação caso algum desses esteja vazio.
 - Não permitir a criação caso exista funcionários com dois ou mais clientes agendados no mesmo horário.
-- Não permitir a 
+- Não permitir a criação caso exista funcionários com visita em dois ou mais imóveis no mesmo horário.
+- Não permitir o agendamento caso exista clientes com dois ou mais funcionários no mesmo horário.
+
+- Permitir a criação de um agendamento de vistoria à um imóvel com as  seguintes características: data de vistoria, horário de vistoria, funcionário responsável, cliente solicitante e imóvel a ser visitado.
+- Não permitir a criação caso algum desses esteja vazio.
+- Não permitir a criação caso exista funcionários com dois ou mais clientes agendados no mesmo horário.
+- Não permitir a criação caso exista funcionários com visita em dois ou mais imóveis no mesmo horário.
+- Não permitir o agendamento caso exista clientes com dois ou mais funcionários no mesmo horário.
 
 ### Funções de Recursos Humanos
 
@@ -133,78 +140,77 @@ Entrada no Sistema: Login Geral, Cadastro de Funcionários por Gerentes, Cadastr
 
 - Permitir que um funcionário possa editar as características de uma cobrança de aluguel.
 - Arquivar automaticamente a cobrança de um aluguel caso a característica pago for verdadeira.
+- Enviar notificação para os clientes e funcionários relacionados em caso de edição ou arquivamento.
 
 #### Editar Cobrança de Multa > Arquiva Cobrança de Multa
 
 - Permitir que um funcionário possa editar as características de uma cobrança de multa.
 - Arquivar automaticamente a cobrança de um multa caso a característica pago for verdadeira.
+- Enviar notificação para os clientes e funcionários relacionados em caso de edição ou arquivamento.
 
 ### Agendamento
 
 #### Editar Agendamento > Arquiva Agendamento
 
-
+- Permitir que um funcionário possa editar as características de um agendamento.
+- Permitir que um funcionário possa arquivar um agendamento.
+- Enviar notificação para os clientes e funcionários relacionados em caso de edição ou arquivamento.
 ### Busca
 
 #### Busca de Imóveis, Seguros, Clientes, Funcionários
 
-- 
+- Permitir a busca de imóveis no sistema pelos Funcionários.
+- Permitir a busca de seguros no sistema pelos funcionários.
+- Permitir a busca de clientes no sistema pelos funcionários.
+- Permitir a busca de funcionários por funcionários de cargo gerente.
 
 ### Notificação
 
 #### Cobrança do Aluguel Notificação
 
-- 
+- Enviar notificação para os clientes e funcionários relacionados caso a data de pagamento do aluguel esteja de aproximando, estando a menos de 5 dias, 3 dias e 1 dia.
+- Enviar notificação todos os dias para os clientes e funcionários relacionados caso a data de pagamento tenha passado e a caracteristica pago seja falso.
 
 #### Cobrança da Multa Notificação
 
-- 
+- Enviar notificação para o cliente locatário acerca da criação da multa.
+- Enviar notificação diária para os clientes relacionados acerca dos valores sendo devidos para o aluguel.
 
 #### Registro de Pagamento
 
-- 
+- Reconhecer o pagamento feito pelo cliente locatário para serviços e/ou aluguel.
 
+#### Notificação de Tudo e Todos
 
-#### Notificação de tudo e todos
-
-- 
+- Enviar notificação para o cliente locatário quando um seguro for adicionado.
+- Enviar notificação para os clientes e funcionários relacionados informando a data e hora de quando uma visita ou vistoria agendada estiver se aproximando, estando a menos de 5 dias, 3 dias, 1 dia e 1 hora antes.
 
 ### Relatório
 
 #### Relatório Mensal da Imobiliária
 
-- 
+- Permitir a geração de um relatório contendo os custos mensais das operações dos imóveis da imobiliária: impostos, contas de luz e água.
+- Permitir a geração de um relatório contendo os custos e ganhos, contendo as características: custos mensais (salários, impostos sobre os imóveis, contas de energia e água dos imóveis, serviço de manutenção de imóveis) e ganhos mensais (acúmulo de comissão da imobiliária)
 
 ### Funções Não Evidentes
 
 #### Cálculo de Aluguel
 
-- 
+- Permitir o calculo do valor do aluguel com a seguinte fórmula: ((valor do imóvel)$\times$(1 $-$ desconto) $+$ valor dos seguro do imóvel)$\times$ (1 + comissão da imobiliária).
 
 #### Cálculo de Multa
 
-- 
+- Permitir o calculo do valor da multa com a seguinte formula: valor adicional inicial $\times$ (1 $+$ juros)$^{atraso}$.
 
 #### Cálculo do Seguro
 
-- 
-
-#### Cálculo de Despesas
-
-- 
+- Permitir o calculo do valor total de seguros com a seguinte formula: $\sum$ seguro$_i$ 
 
 #### Cálculo de Custos
 
-- 
-
+- $\sum$ salário $_i$ + $\sum$ imposto $_i$  + $\sum$ contas de água $_i$ + $\sum$ contas de energia $_i$  + $\sum$ manutenção $_i$ 
 #### Cálculo de Ganhos
 
-- 
+- $\sum$ ((aluguel / ((valor do imóvel)$\times$(1 $-$ desconto) $+$ valor dos seguro do imóvel)) - 1)  $_i$
 
-#### Cobrança do Aluguel Automática
 
-- 
-
-#### Cobrança da Multa Automática
-
-- 

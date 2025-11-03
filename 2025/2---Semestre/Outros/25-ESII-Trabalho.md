@@ -214,7 +214,7 @@ Entrada no Sistema: Login Geral, Cadastro de Funcionários por Gerentes, Cadastr
 - $\sum$ ((aluguel / ((valor do imóvel)$\times$(1 $-$ desconto) $+$ valor dos seguro do imóvel)) - 1)  $_i$
 
 
-## Outras coisas do Doc. Requisitos
+### Outras coisas do Doc. Requisitos
 
 Remover:
 

@@ -32,13 +32,13 @@ Disciplinas Pendentes: [[25-II-CII]]
 - [x] 09.29 : T1 : Implementação de Computação Gráfica
 - [x] 10.06 : P1 : Engenharia de Software II
 - [x] 10.21 : P1 : Banco de Dados II
-- [ ] 11.05 : T3 : Redes de Computadores II
-- [ ] 11.10 : A1 : Amostra - Trabalho de Conclusão de Curso
-- [ ] 11.13 : T1 : Cálculo II
-- [ ] 11.13 : P2 : Cálculo II
-- [ ] 11.17 : T1 : Banco de Dados II
-- [ ] 11.17 : T3 : Inteligência Artificial
-- [ ] 11.24 : P1 : Inteligência Artificial
+- [x] 11.10 : A1 : Amostra - Trabalho de Conclusão de Curso
+- [x] 11.13 : T1 : Cálculo II
+- [x] 11.13 : P2 : Cálculo II
+- [x] 11.16 : T3 : Redes de Computadores II
+- [x] 11.17 : T3 : Inteligência Artificial
+- [ ] 11.24 : P2 : Inteligência Artificial
+- [ ] 11.24 : T1 : Banco de Dados II
 - [ ] 11.25 : TF : Tópicos de Matemática Aplicada
 - [ ] 11.25 : T1 : Implementação de Computação Gráfica
 - [ ] 11.25 / 11.26 : P2 : LFTC
